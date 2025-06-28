@@ -1,0 +1,23 @@
+/cyberpunk_gm_helper/
+|
+|-- main.py                 # Main application entry point (CLI or future GUI)
+|-- config.py               # Stores API keys, file paths, model names
+|-- requirements.txt        # Lists all Python dependencies
+|
+|-- /data/
+|   |-- world_state.json      # The "living" state of your campaign world
+|   |-- /session_transcripts/ # Where you'll save raw text from sessions
+|   |-- /session_summaries/   # Generated summaries will be stored here
+|
+|-- /knowledge_base/
+|   |-- /rules/               # Place Cyberpunk Red core rulebook PDF here
+|   |-- /adventures/          # Place adventure module PDFs here
+|
+|-- /vector_store/            # The RAG system will store its database here
+|
+|-- /modules/
+|   |-- __init__.py
+|   |-- rag_system.py         # Handles embedding, storing, and querying documents
+|   |-- world_state.py        # Manages loading, updating, and saving the world state
+|   |-- session_processor.py  # Handles transcript summarization and event extraction
+|   |-- data_models.py        # Defines the Pydantic or dataclasses for y

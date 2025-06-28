@@ -1,0 +1,469 @@
+{
+  "locations": {
+    "LITTLE EUROPE": {
+      "description": "A DISTRICT DIVIDED BETWEEN CLASSES AND TIMES, WITH OLD BRICK BUILDINGS STANDING NEXT TO FUTURISTIC SKYSCRAPERS.",
+      "factions": [
+        "6TH STREET",
+        "EUROTRASHERS",
+        "MAELSTROM",
+        "UNDERTOW"
+      ],
+      "city_manager": "AMANDA POLISHCHUK (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "Camden Court": "A secure apartment complex favored by solos and execs.",
+        "Chopper’S": "Formerly a butcher’s shop, now a bar. the meat grinder still works if you want to get rid of a body.",
+        "Continental   Brands   Vertical Neighborhood": "Housing for continental brands employees. a nightmare to navigate due to its “flavors of the world” theming.",
+        "Cube-A-Rama": "A cube hotel with an original brick exterior.",
+        "Danger Gal Housing Facility": "Housing for danger gal employees. pink and full of life.",
+        "Danger Gal Offices": "Home base for danger gal, a private investigation and security neocorp.",
+        "Fiddler’S Green": "An “irish” pub that’s about as irish as green beer on saint patty’s day.",
+        "Greta’S": "The best pool hall in night city, with a strong lesbian client base.",
+        "Holy Angels Church": "A catholic church run by father kevin and father paul. known far and wide as neutral ground in night city.",
+        "Paradiso Terrestre": "An upscale southern neo-italian dining experience. meals by appointment only.",
+        "Short Circuit": "Night city’s premiere tech and netrunner bar. owned and operated by brain and his husband 3-piece.",
+        "Soprano’S": "An italian restaurant that leans heavily into its mafioso theming. the real mob gives it a pass.",
+        "Torrell And Chiang’S": "Considered by many to be the best tailors in night city."
+      },
+      "region": "THE ISLAND"
+    },
+    "UPPER MARINA": {
+      "description": "A BUSTLING DISTRICT WITH A MIX OF OLD INDUSTRIAL ZONES AND GENTRIFIED NEIGHBORHOODS BUILT AROUND A SERIES OF DOCKS AND SMALL MARINAS.",
+      "factions": [
+        "MAELSTROM",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS"
+      ],
+      "city_manager": "KABRIA CHUNG (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "The Afterlife": "The premiere edgerunner bar in night city. owned by the legendary solo, rogue.",
+        "Buffalo’S": "The latest in a long line of failing restaurants opened in this location. serves global fusion cuisine.",
+        "City Medical Center": "An enormous hospital complex housing some of the best medical staff and technology in night city.",
+        "The Garden Of Earthly Delights": "A full hedo-nistic experience brothel. a visit starts with dinner and ends with time spent with meat puppets programmed to the client’s specifications.",
+        "Graffitix": "An art gallery displaying the work of night city’s best up-and-coming artists.",
+        "La Lune Blue": "A high-end french restaurant.",
+        "Marina Floathomes": "A collection of small houseboats for rent.",
+        "Mccartney Cubes": "A cube hotel near the stadium.",
+        "Mccartney Field Stadium": "A 75,000 seat stadium and the heart of night city’s sports and concert scene. franchises calling the stadium home include the slammers (baseball), heat (basketball), death dealers (combat soccer), nuke (murderball), and the new battlegrounds championship wrestling league.",
+        "Night City Bubbles": "A high-end spa. some employees can be hired as escorts for the evening.",
+        "Reo Meatwagon Offices": "Home of night city’s second-biggest ems operation.",
+        "Travlstay Citycenter": "A cube hotel with paper-thin walls and absolutely no security."
+      },
+      "region": "THE ISLAND"
+    },
+    "DOWNTOWN": {
+      "description": "A NEW DISTRICT CARVED OUT OF LITTLE EUROPE BY MISTER KERNIGHAN AND A CONSORTIUM OF FIXERS AND EXECS KNOWN AS THE CHAMBER OF COMMERCE. DOWNTOWN IS PREPARING FOR NIGHT CITY’S FULL REBIRTH BY CREATING THE MOST COM-MERCIALLY FRIENDLY DISTRICT ON THE ISLAND.",
+      "factions": [
+        "EASTERN TIGERS TRIAD",
+        "SKIV FAMILY",
+        "UNDERTOW"
+      ],
+      "city_manager": "EMILIA ORTEGA (APPOINTED BY CHAMBER OF COMMERCE)",
+      "security_provider": "WHITEWATER SECURITY",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "Acadia Way": "A single street containing restored bungalows, gated away from the rest of the world.",
+        "Continental Brands Offices": "The night city headquarters of food juggernaut continental brands. also home to the oasis megamart, the largest grocery store in the city.",
+        "Cortex Complex": "An ugly office building that vaguely resembles a human brain. home to jack skorkowski real estate and dizcom, an industrial design firm.",
+        "Delirium": "A gothpunk virtuality club.",
+        "Night City Firestation #2": "The most well-funded firestation in night city. it is well fortified, well equipped, and employs a number of fbc firefighters."
+      },
+      "region": "THE ISLAND"
+    },
+    "THE HOT ZONE": {
+      "description": "FORMERLY THE CENTRAL CITY CORPORATE ZONE. NOW, A BLEAK LANDSCAPE RIDDLES WITH TWISTED, WRECKED SKYSCRAPERS. IT SHRINKS A BIT EACH YEAR AS THE EDGES ARE CLEARED AND REBUILT.",
+      "factions": [
+        "LIGHTNING CATS",
+        "MAELSTROM",
+        "RECKONERS",
+        "VARIOUS SCAVVER GROUPS"
+      ],
+      "city_manager": "NONE",
+      "security_provider": "NCPD",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "The Ashcroft Hotel": "Once the most luxurious hotel in night city. now the center of maelstrom’s hot zone scavenging operations.",
+        "The N54": "The former home of network 54 in night city. the tallest structure still standing in the hot zone – climbing it and tagging the top has become a tradition among urbanauts.",
+        "Toggle’S Temple": "An underground firearms range and obstacle course run by a conspiracy theorist named toggle.",
+        "Totentanz": "A chrome metal club and home base for maelstrom."
+      },
+      "region": "THE ISLAND"
+    },
+    "LITTLE CHINA": {
+      "description": "A STRUGGLING COMMUNITY ATTEMPTING TO CRAWL ITS WAY OUT OF THE COMBAT ZONES AND INTO THE REBUILDING URBAN CENTER.",
+      "factions": [
+        "GOLD DRAGONS",
+        "RED CHROME LEGION",
+        "WENG FANG TONG"
+      ],
+      "city_manager": "DAVID LING PO (APPOINTED BY THE LITTLE CHINA REDEVELOPMENT ASSOCIATION)",
+      "security_provider": "GOLD DRAGONS",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "Bridgetown": "A cargo container community stacked under the end of the pelican boulevard over-pass. it isn’t uncommon for bodies to wash up on the waterfront nearby.",
+        "Chrome Cross": "A dive bar frequented by the red chrome legion.",
+        "Forlorn Hope": "The home of the forlorn hope, a venerable edgerunner bar and night city institu-tion (before the events of tales of the red: hope reborn).",
+        "Guăngbō Tower": "A symbol of little china’s aspirations for the future, this restored tower houses a number of organizations and businesses, including the ling po public library and virtex’s virtuality venue.",
+        "Prosperity Gardens Tenements": "A block of mixed-use apartments holding way too many people. for mysterious reasons, it is also one of the safest places to live in little china."
+      },
+      "region": "THE ISLAND"
+    },
+    "UNIVERSITY DISTRICT": {
+      "description": "A SLIM DISTRICT HOUSING THE CITY’S ONLY TRADITIONAL INSTITU-TION OF HIGHER LEARNING.",
+      "factions": [
+        "PHILHARMONIC VAMPYRES",
+        "PRINCESSES OF JUSTICE"
+      ],
+      "city_manager": "DOCTOR EDWARD MICHAELS (SELF-APPOINTED)",
+      "security_provider": "NCU CAMPUS SECURITY",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "Biotechnica Campus": "The headquarters of biotechnica in night city. strange sounds can be heard from the campus at night.",
+        "Biotechnica Habitation Sphere Alpha": "A geodesic dome serving as housing for biotechnica employees.",
+        "Night City Symphony Hall": "A performance space owned and operated by the philharmonic vampyres.",
+        "Night City University": "A college campus built up into something of a fortified monastery. the center of higher education in night city.",
+        "Parkside Living": "Apartments occupied primar-ily by ncu students and some faculty. always loud and boisterous.",
+        "Princessland!": "An abandoned carnival themed around an old animated show. now home to the princesses of justice.",
+        "Stems & Seeds": "A guerilla gardening operation run by lily larson, a former researcher for petrochem.",
+        "University Cubes": "Cheap rooms for university students on a budget.",
+        "Yewtree": "A neo-hipster bar working in collusion with ncu security to keep students quiet while drinking in the district."
+      },
+      "region": "THE ISLAND"
+    },
+    "THE GLEN": {
+      "description": "THE ADMINISTRATIVE CENTER OF NIGHT CITY; FULL OF MOVERS, SHAKERS, AND POWER PLAYERS.",
+      "factions": [
+        "DEADWOODS",
+        "KILL KRASHERS",
+        "THE RECKONERS",
+        "WENG FANG TONG"
+      ],
+      "city_manager": "ZOHARA FREEMAN (APPOINTED BY NIGHT CORP)",
+      "security_provider": "NCPD",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "1St Night City Bank": "The largest bank in night city and the most likely source of loan money for local projects (usually lent to people with plenty of money of their own).",
+        "Air": "An oxygen bar for those who can afford the fresh stuff.",
+        "Bear’S": "Famous for its microbrew selection and the moth-eaten bear head sitting above the bar.",
+        "City Hall": "The seat of local government in night city.",
+        "City Police Precinct #1": "The first line of defense against the gangs of the combat zones … for those who can afford it.",
+        "Club Atlantis": "A glamorous, multi-level club with a flashy, avant-garde, and disorienting style.",
+        "Glenlife Perfected": "An apartment building. looks great on the outside. not so great on the inside.",
+        "Hall Of Justice": "Courthouse and jail all in one. an imposing, brutalist structure.",
+        "Kasim’S": "A turkish coffee and tobacco bar. closed on fridays so the owner and his family can attend prayers.",
+        "Merrill, Asukaga & Finch Offices": "The night city headquarters of the world’s largest inde-pendent financial and investment institution. the tall skyscraper houses additional businesses.",
+        "Night City Plaza": "A beautiful park open to the public. the largest green space in night city.",
+        "Raven Microcybernetics": "Night city headquarters for a major cybernetics company. the skyscraper also houses some of the company’s close business partners.",
+        "Seafoam": "A cube hotel close to club atlantis. the party never stops here, though revelers sometimes wake up after a bender missing money, inventory, or chrome courtesy of the reckoners."
+      },
+      "region": "THE ISLAND"
+    },
+    "OLD JAPANTOWN": {
+      "description": "MOST OF NIGHT CITY’S ETHNIC JAPANESE POPULATION HAS MOVED NORTH, BUT ENOUGH STILL CLING TOGETHER HERE TO FORM ISLANDS OF CIVILIZATION IN A SEA OF COMBAT ZONE CHAOS.",
+      "factions": [
+        "IRON SIGHTS",
+        "MAELSTROM",
+        "RED CHROME LEGION",
+        "THE SHROOMERS",
+        "TYGER CLAWS"
+      ],
+      "city_manager": "ADRIANE CASSELLE (ELECTED BY LOCAL FAMILY HEADS)",
+      "security_provider": "KIMEN-GUMI",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "Crisis Medical Center": "A no-questions asked medical center supplied with surprisingly advanced technology. multiple corps use it as a staging ground to run medical experiments.",
+        "Highcourt Plaza Hotel": "A classy and well-de-fended hotel providing excellent service. most guests arrive via av to avoid driving through a combat zone.",
+        "Honest Hiro’S Used Cars": "A used car deal-ership supplied by the steel vaqueros (and other nomads) and protected by edgerunners who trade service for vehicles.",
+        "Mrs. Suzuki’S Bodega": "The most secure and stable market in old japantown. known for being the only distribution point for mushrooms grown by the shroomers.",
+        "The Precipice": "A cargo container community. many of the residents earn extra cash by volunteering for experiments at crisis medical.",
+        "Unnamed Cube Hotel": "The rooms are cleaned out by ceiling-mounted water jets, and the locks on the doors are dodgy, but at least there are no cameras and no questions."
+      },
+      "region": "THE ISLAND"
+    },
+    "SOUTH NIGHT CITY": {
+      "description": "A SPRAWLING MIX OF INDUSTRY AND RESIDENTIAL BUILDINGS. IT IS A COMBAT ZONE PRIMARILY BECAUSE THE CITY MANAGER, GAVEN HAAKENSEN, CARES MORE ABOUT LINING HIS POCKETS THAN HE DOES DOING HIS JOB. THAT DOESN’T MAKE HIM UNUSUAL, BUT HE’S MORE BLATANT ABOUT IT THAN MOST. CITY  MANAGER:  GARVEN  HAAKENSEN (SELF-APPOINTED) SECURITY PROVIDER: SCYTHE SECURITY GANGS PRESENT: BOZOS, DEADWOODS, THE ENHANCED, KANZAKI FAMILY, KILL KRASHERS, THE RECKONERS, THE SINFUL ADAMS, TYGER CLAWS, THE ZONERS ▶ SOUTH NIGHT CITY LOCATIONS ◀ (I1) THE BONEYARD: FORMERLY THE NIGHT CITY GARDEN OF REST. NOW A SHANTY TOWN AND HOME TO THE SINFUL ADAMS. THEY RUN AN ANNUAL FESTIVAL ON HALLOWEEN FOR THE DISTRICT’S RESIDENTS. (I2) MINDNUTZ LOVER: THE HOTTEST BRAINDANCE CLUB IN SOUTH NIGHT CITY. (I3) SAVAGE DOCS: A MULTI-RIPPERDOC OPERATION OF GOOD REPUTATION PROTECTED BY BOTH THE YAKUZA AND THE TYGER CLAWS (DESPITE THEIR DIFFERENCES). (I4) SILVERHAND STUDIOS: APARTMENTS AND STUDIO SPACE RENTED OUT TO ARTISTS AND MUSICIANS. RUN BY THE COUSIN OF LEGENDARY ROCKERBOY KERRY EURODYNE. (I5) THE SLAMMER: A GANGER BAR. HOME OF THE ARENA, A NO-HOLDS-BARRED COMBAT RING GANGERS CAN STEP INTO TO SETTLE THEIR DISPUTES WITHOUT MURDER. (I6) SOUTH CARGO VILLAGE: A CARGO CONTAINER COM-MUNITY. DESPITE BEING ON THE BORDER OF THE GLEN, IT IS STILL IN A COMBAT ZONE, AND THE COPS TREAT IT AS SUCH. (I7) UNION CHAPEL BUILDING: ONCE AN ARCHITECTURAL LANDMARK. NOW ABANDONED, IN THEORY. SOME THINK THE RECKONERS USE THE BASEMENT AS A REFUGE. (I8) UNIVERSITY CARGO BAY: CARGO CONTAINER HOUSING FOR UNIVERSITY STUDENTS. PORT OF NIGHT CITY (J) A CENTRAL LOCATION FOR CARGO ENTERING AND LEAVING NIGHT CITY BY SEA. RUN BY NOMADS FROM THE THELAS NATION.",
+      "factions": [
+        "CONSORTIUM",
+        "DEADWOODS"
+      ],
+      "city_manager": "CALYPSO (APPOINTED BY THELAS ELDERS)",
+      "security_provider": "THELAS MARINES",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "Dock 13": "The storefront (and occasional night market) of marketing genius willy “mister amaaaze” maze.",
+        "Dock 14 Studio Apartments": "An apartment building just one dock away from the always loud dock 13.",
+        "Dock Cargo Community": "A cargo container community nestled between the docks.",
+        "Flotsam": "A small drift town just off the coast. it consists of several larger vessels run aground con-nected by smaller boats, rafts, and walkways. the randy dandy, a mobile bar, often docks here.",
+        "Medical Technologies": "A body bank special-izing in growing replacement limbs. known for buying and selling dodgy cyberware as well.",
+        "Rusty’S Dive Shack": "A rough-and-tumble bar for sea-faring types. built out of the bridge of an old container sub.",
+        "South Night City Reclaimed Studio": "An apart-ment building near the water. leaving the building risks encountering gangers visiting medical technologies."
+      },
+      "region": "THE ISLAND"
+    },
+    "RECLAMATION ZONE": {
+      "description": "A SMALL ENCLAVE RUN BY NOMADS TURNED RECLAIMERS. THEY’VE TAKEN OVER THE OPERATION OF NIGHT CITY’S PUBLIC TRANSPORTATION, EXCHANGING THEIR TECHNICAL AND MOTOR SKILLS FOR THE LAND.",
+      "factions": [
+        "TOMBSTONE PRESERVERS"
+      ],
+      "city_manager": "SANTOS DORADO (ELECTED BY DISTRICT RESIDENTS)",
+      "security_provider": "LOS PERROS GUARDIANES",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "Herschel’S Crematorium": "A funeral home run by an undertaker who truly believes everyone deserves a dignified sendoff into the next life."
+      },
+      "region": "THE ISLAND"
+    },
+    "OLD COMBAT ZONE": {
+      "description": "IN THE LATE 2010S AND EARLY 2020S, NIGHT CITY BEGAN EXPANDING THE ISLAND BY FILLING IN LAND TO THE SOUTHEAST. IN THE AFTERMATH OF THE 4TH CORPORATE WAR, WHAT WAS INTENDED TO BE A SHINING BEACON OF INDUSTRIAL MIGHT DEVOLVED INTO THE WORST COMBAT ZONE NIGHT CITY HAD EVER SEEN. SLOWLY, INCH BY INCH, GROUPS OF EDGERUNNERS HAVE STRIVED TO REBUILD IT.",
+      "factions": [
+        "EDGERUNNERS INC",
+        "THE FADED",
+        "GENERATION RED",
+        "IRON SIGHTS",
+        "THE SHROOMERS"
+      ],
+      "city_manager": "BRICK COLEMAN (AS LEADER OF EDGERUNNERS INC)",
+      "security_provider": "EDGERUNNERS INC",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "From The Ashes": "A sliding scale clinic run by phoenix redwyne.",
+        "Jesse James’ Kosher Deli": "More of a saloon than a deli, though for a small fortune you can get a pretty good corned beef on rye.",
+        "Nc Ionic Semiconductor Building": "A fac-tory-turned-cargo community. many iron sights stash family members here for safety.",
+        "The Underground": "The home of the shroomers, located deep beneath the streets of night city."
+      },
+      "region": "THE ISLAND"
+    },
+    "NORCAL MILITARY BASE": {
+      "description": "HOME OF THE ESTERO BAY MILITARY COG (A MIXTURE OF VARIOUS MILITARY UNITS INTO A SINGLE ORGANIZED GROUP). IN THEORY, THE COG IS LOYAL TO NORCAL AND THE PACIFICA CONFEDERATION, BUT THEY’VE ALSO MADE A DEAL WITH MILITECH, TRADING LAND AND ACCESS FOR TRAINING AND MUNITIONS.",
+      "factions": [
+        "CULPER RING"
+      ],
+      "city_manager": "GENERAL ASH GIOVANNI (BASE COMMANDER)",
+      "security_provider": "NORCAL MILITARY POLICE",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "Militech Corporate Operatives Housing": "Secure housing for militech employees.",
+        "Militech Offices": "Night city headquarters for militech, a one-stop shop for all your military and security needs."
+      },
+      "region": "NORTHSIDE"
+    },
+    "WATSON DEVELOPMENT": {
+      "description": "A DEVELOPING DISTRICT BUILT UP BY THE NIGHT CITY CO-PROSPERITY SPHERE (NCCS), AN ALLIANCE OF VARIOUS CORPORATIONS (PRI-MARILY OF JAPANESE ORIGIN). LAST YEAR, COMMUNITY ORGANIZER LUCIUS RHYNE LED A DISTRICT-WIDE LABOR STRIKE, FORCING THE NCCS TO ORGANIZE A GENERAL ELECTION FOR CITY MANAGER. RHYNE WON THE RESULTING RACE HANDILY.",
+      "factions": [
+        "ARZIN TYNON",
+        "DRAGULA RACERS",
+        "G3",
+        "KANZAKI FAMILY",
+        "TYGER CLAWS",
+        "WILD THINGS"
+      ],
+      "city_manager": "LUCIUS RHYNE (ELECTED VIA GENERAL ELECTION)",
+      "security_provider": "NCPD",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "City Police Precinct #3": "A large, well-armed police precinct. the egos of some cops here took a bruis-ing when they were unable to break up the labor strike.",
+        "Htown": "A tent city built outside the walls of a gated community. tensions are high.",
+        "Petrochem & Sovoil Joint Temporary Housing Solution": "In a twist of irony, both petrochem and sovoil provide employee housing in the same building. no one is happy about it.",
+        "Petrochem Offices": "The heavily defended headquarters of petrochem in night city. there’s a small museum dedicated to the history of petroleum. across the street from the sovoil offices.",
+        "Red Oktober": "A soviet-themed bar built into an old subway station.",
+        "Redline": "Home of the most thrilling bloodsport in night city and the wild things, a gang dedicated to organized competitive violence.",
+        "Sakura’S": "A night city interpretation of an izakaya, an informal bar.",
+        "Smash/Cut": "An edm club where the chromed up go to dance, do drugs, and have anonymous sex.",
+        "Sovoil Offices": "Night city headquarters for sovoil. completely off-limits to the public. across the street from the petrochem offices.",
+        "Trauma Team Corporate Living Center": "Housing for trauma team employees.",
+        "Trauma Team Tower": "Night city headquar-ters for trauma team. includes an av repair bay and a hospital for the exclusive use of executive-level clients.",
+        "Vargtimmen": "A neo-pagan mead bar. famous for their solstice and equinox parties.",
+        "Watson Central Cubelife": "A bog standard cube hotel."
+      },
+      "region": "NORTHSIDE"
+    },
+    "KABUKI": {
+      "description": "A SMALL DISTRICT CENTERED AROUND THE NAKAGAWA KABUKI THEATER. COMMON WISDOM HOLDS THAT WHILE WATSON ACTS AS THE ARMS AND LEGS OF THE NIGHT CITY CO-PROSPERITY SPHERE, KABUKI IS ITS BRAIN AND HEART.",
+      "factions": [
+        "G3",
+        "TYGER CLAWS"
+      ],
+      "city_manager": "YOSHIKI MURAKAMI (APPOINTED BY THE NCCS)",
+      "security_provider": "KIMEN-GUMI",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "Nakagawa Kabuki Theater": "The most magnificent building in northside. home to a kabuki troupe said to be the equal of any in japan, as well as a museum and the central offices of the tyger claws leadership.",
+        "Yum Seng": "A host and hostess bar famous for its seafood and soundproof karaoke boxes."
+      },
+      "region": "NORTHSIDE"
+    },
+    "NEW WESTBROOK": {
+      "description": "AN URBAN SPRAWL BUILT IN THE REMAINS OF AN UPSCALE SUBURB. IT MIXES GLITZ AND GLAM WITH TENT CITIES AND LOW-RENT HOUSING. MOST OF THE NORTHERN PART OF THE DISTRICT IS OCCUPIED BY A WALLED-OFF FAKE CITY WHERE NETWORK 54 RUNS AND FILMS THE COMBAT ZONE, A BATTLE ROYALE “GAME SHOW” IN WHICH FIFTY PEOPLE ENTER AND ONLY ONE GETS TO LEAVE ALIVE WITH A YEAR’S WORTH OF REAL CHICKEN DINNERS AS THE PRIZE.",
+      "factions": [
+        "ARZIN TYNON",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS",
+        "TOMBSTONE PRESERVERS"
+      ],
+      "city_manager": "BELKIS ABERA (APPOINTED BY WORLDSAT AND NETWORK 54)",
+      "security_provider": "NCPD",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "Canalside Plaza": "A strip mall. home to the sizzle jams talent agency, a rickshaws, a capitán caliente restaurant, the mane event hair and nail salon, and an oasis.",
+        "Chatelaine’S": "An early 20th-century style cabaret and burlesque queer club so popular it attracts a number of straight tourists.",
+        "Dilly’S": "A love hotel with a unique mascot – a cartoon pickle wearing a rolled-up condom as a beanie.",
+        "Evergreen Apartments": "A former big box store transformed into a cube hotel. for the right price, the landlord is more than happy to evict existing tenants for you.",
+        "Network 54 Offices": "The night city head-quarters and broadcasting tower for network 54.",
+        "Network 54 Westbrook Private Acres": "A gated community of duplexes for the use of network 54 employees.",
+        "Night City Firestation #1": "A well-supplied firestation. it specializes in av-based firefighting.",
+        "North Cargo Village": "A cargo container com-munity stacked in an abandoned parking lot.",
+        "Rocklin Augmentics Campus": "Night city headquarters of rocklin augmentics, including offices, meeting spaces, and a research hospital.",
+        "Rocklin Augmentics Innovation Hub": "Corporate housing for rocklin augmentics employees. they are encouraged to use the various maker spaces built inside.",
+        "Worldsat Offices": "A heavily defended com-pound on the edge of the city. it is not only the local headquarters of worldsat but also the junction point for satellite communications between night city and the outside world."
+      },
+      "region": "MAINLAND"
+    },
+    "CHARTER HILL": {
+      "description": "A SMALL BUT INFLUENTIAL COMMUNITY. ON A CLEAR DAY, THE RESIDENTS OF CHARTER HILL CAN SEE THE WALLS OF THE EXEC ZONE AND DREAM OF CLIMBING EVEN HIGHER ON THE CORPORATE LADDER.",
+      "factions": [],
+      "city_manager": "SYMON FEATHERSTONEHAUGH (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "MILITECH",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {},
+      "region": "MAINLAND"
+    },
+    "EXEC ZONE": {
+      "description": "THE SINGLE MOST SECURE DISTRICT IN NIGHT CITY. ONLY THE TRULY ELITE LIVE HERE.",
+      "factions": [
+        "NONE"
+      ],
+      "city_manager": "DOCTOR KAREN DAVIES (ELECTED BY HOME OWNER’S ASSOCIATION)",
+      "security_provider": "LAZARUS",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {},
+      "region": "MAINLAND"
+    },
+    "HEYWOOD DOCKS": {
+      "description": "AS THE WORLD RETURNS TO NORMAL, CORPORATIONS ARE LOOKING TO CUT THE NOMAD NATIONS OUT OF THE SHIPPING AND LOGISTICS EQUATION. LARGER VESSELS CAN’T USE THE HEYWOOD DOCKS, BUT SMALLER, CORPORATE-SPONSORED SHIPS MOVING UP AND DOWN THE WEST COAST CAN.",
+      "factions": [
+        "DEADWOODS",
+        "SKIV FAMILY"
+      ],
+      "city_manager": "ANDREA LEE (APPOINTED BY SK SECURITY)",
+      "security_provider": "SK SECURITY",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "Greenbox Storage Units": "Technically a secure storage facility, but customers have been known to live inside the units."
+      },
+      "region": "MAINLAND"
+    },
+    "NORTH HEYWOOD": {
+      "description": "OVER THE PAST DECADE, HEYWOOD HAS BEEN DIVIDED INTO TWO DISTRICTS. IN THE NORTH ARE WORKADAY RESIDENTS, MANY OF WHOM HAVE FOUND JOBS IN THE NEARBY HEYWOOD INDUSTRIAL ZONE.",
+      "factions": [
+        "6TH STREET",
+        "INQUISITORS",
+        "THE MUSES",
+        "THE TOECUTTERS"
+      ],
+      "city_manager": "BARRY “BIG DEAL” DELVECCHIO (APPOINTED BY DISTRICT COUNCIL)",
+      "security_provider": "6TH STREET",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "Acorn Towers": "A dual-tower apartment complex housing dynalar employees.",
+        "The Armory": "A former national guard armory transformed into the headquarters of 6th street.",
+        "Biotechnica Palm Grove": "A grove of experimental palm trees owned and monitored by biotechnica.",
+        "Converted Motel Studio Apartments": "A no-name motel transformed into no-name apartments on the edge of the city.",
+        "Dynalar Campus": "The regional headquarters of dynalar, a popular cyberware and electronics company.",
+        "Forlorn Hope": "The home of the forlorn hope, a venerable edgerunner bar and night city institu-tion (after the events of tales of the red: hope reborn).",
+        "Nana Meow’S Nursery": "Not a guerilla garden itself but a shop that supplies gear and seeds to guerilla gardeners.",
+        "Night City Animal Shelter": "A former veteri-narian clinic now occupied by a ripperdoc. it special-izes in exotics and bioexotics.",
+        "Woodland Park": "A small neighborhood near the dynalar campus. highlights include the burning bright bodega, breeze (a mom and pop drug store), the palms cargo container community, the shark apartment building, and the zolletta cube hotel.",
+        "Xanadu": "A roller derby rink and disco tech. home of the muses."
+      },
+      "region": "MAINLAND"
+    },
+    "HEYWOOD INDUSTRIAL ZONE": {
+      "description": "THE LARGEST INDUSTRIAL ZONE IN NIGHT CITY, OVERFLOWING WITH WAREHOUSES, CONSTRUCTION EQUIPMENT, FACTORIES, AND EVEN SOME DERELICT CARGO SHIPS.",
+      "factions": [
+        "CONSORTIUM",
+        "DEADWOODS",
+        "THE ENHANCED",
+        "FIXIE’S COURIERS"
+      ],
+      "city_manager": "THEO WALKER (APPOINTED BY THE ARROYO CONCERN)",
+      "security_provider": "NCPD",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "D.V. Rambling Rose": "An ancient vessel stuck in dry dock. home base for fixie’s couriers.",
+        "Old Ironworks Building": "The inside has been converted into apartments, and the landlords have stacked cargo container housing on the roof.",
+        "Yang’S Wheels": "The headquarters, manu-facturing factory, and warehouse of yang’s wheels, night city’s biggest provider of inexpensive wheeled transportation.",
+        "Zhirafa Office Park": "The night city head-quarters of zhirafa. drones are used for both labor and security.",
+        "Zhirafa Office Park Microvillage": "Corporate housing for zhirafa employees, colorfully disguised as cargo containers."
+      },
+      "region": "MAINLAND"
+    },
+    "SANTO DOMINGO": {
+      "description": "SOUTH HEYWOOD IS BETTER KNOWN BY THE LOCALS AS SANTO DOMINO. THE NOMAD CAMP NEAR THE DAM HEAVILY INFLU-ENCES THE DISTRICT, BUT THE ALDECALDOS POWER MAY BE WANING. THERESA VALENTINO, AN INDEPENDENT CANDIDATE, RECENTLY WON THE ELECTION FOR CITY MANAGER THANKS TO BACKING FROM THE EL NORTE CARTEL.",
+      "factions": [
+        "EL NORTE CARTEL",
+        "KILL KRASHERS",
+        "RAT KINGS",
+        "STEEL VAQUEROS"
+      ],
+      "city_manager": "THERESA VALENTINO (ELECTED BY RESIDENTS)",
+      "security_provider": "ALDECALDO PEACEKEEPERS",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "Aldecaldo Camp": "A large multi-cultural encampment sitting at the base of the petrochem dam. while all nomads are welcome, the camp is primarily dominated by the aldecaldos.",
+        "City Police Precinct #2": "Large but over-worked, the cops here rely heavily on drones to patrol their beats.",
+        "East Cargo Village": "A dusty cargo container community located near the edge of the city.",
+        "Heywood Suites": "An apartment complex situated beneath one of the most heavily trafficked overpasses in night city. many residents have lev-el-dampening cyberware installed.",
+        "María’S": "A family-owned beer tent located just inside the city limits.",
+        "Metalstorm": "A seemingly indestructible bar located under the pacifica bridge. popular with fbcs.",
+        "Woodchipper’S Garage": "The home base of woodchipper, the most influential nomad fixer in night city. she throws her famous night markets/ block parties in the cul-de-sac to the southwest."
+      },
+      "region": "MAINLAND"
+    },
+    "RANCHO CORONADO": {
+      "description": "TECHNICALLY PART OF NIGHT CITY, NO ONE HAS YET BOTHERED TO PONY UP THE CASH TO BUY RANCHO CORONADO’S SEAT ON THE CITY COUNCIL. AS A RESULT, THE DISTRICT LACKS IN JUST ABOUT EVERY RESOURCE, FROM UTILITIES TO FIRE AND POLICE SERVICES.",
+      "factions": [
+        "6TH STREET",
+        "ALBINO ALLIGATORS",
+        "DIRTY HIPPIES",
+        "STEEL VAQUEROS",
+        "VOODOO BOYS"
+      ],
+      "city_manager": "NONE",
+      "security_provider": "NCPD (IN THEORY)",
+      "npcs_present": [],
+      "events": [],
+      "sub_locations": {
+        "Albino Alligator Carwash": "Home base for the albino alligators. also one of the most reliable places to find clean drinking water in the district.",
+        "Coronado Heights": "An apartment building so close to pacifica that it might as well be part of it.",
+        "Eagle Rock Stadium": "A former football field transformed into a cargo container community.",
+        "Jack ‘N’ The Green": "A guerilla gardening outfit run by reclaimers.",
+        "Minimallism": "Once a mall catering to eager beaverville consumers, now an empty husk claimed on one side by reclaimers and on the other by a consor-tium of fixers who take turns running night markets there. also known as the rc night market by residents."
+      },
+      "region": "SOUTHSIDE"
+    }
+  }
+}
