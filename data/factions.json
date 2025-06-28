@@ -1,0 +1,259 @@
+{
+  "factions": [
+    {
+      "id": "6th_street",
+      "name": "6th Street",
+      "description": "Formed by veterans of the 4th Corporate War; moonlights in extortion and smuggling."
+    },
+    {
+      "id": "albino_alligators",
+      "name": "Albino Alligators",
+      "description": "Party gang ruling parts of Rancho Coronado; famous for its white-gator mascot and popped collars."
+    },
+    {
+      "id": "the_andersons",
+      "name": "The Andersons",
+      "description": "Aging yogang with a family theme; under threat from the Piranhas."
+    },
+    {
+      "id": "arzin_tynon",
+      "name": "Arzin Tynon",
+      "description": "Older boostergang operating on Night City’s northern fringe."
+    },
+    {
+      "id": "the_bozos",
+      "name": "The Bozos",
+      "description": "Deadly clown-themed prankster gang locked in an internal prank war."
+    },
+    {
+      "id": "consortium",
+      "name": "Consortium",
+      "description": "Tightly organized Russian mob group with ties to the Thelas nomad nation."
+    },
+    {
+      "id": "culper_ring",
+      "name": "Culper Ring",
+      "description": "Secret cell in the Estero Bay Military COG dedicated to reuniting NorCal with the USA."
+    },
+    {
+      "id": "deadwoods",
+      "name": "DeadWoods",
+      "description": "Cowboy-themed gang acting as self-appointed guardians of Night City’s railways."
+    },
+    {
+      "id": "dirty_hippies",
+      "name": "Dirty Hippies",
+      "description": "Guerrilla gardeners selling drug-laced herbs collectively branded as 'ganga'."
+    },
+    {
+      "id": "dragula_racers",
+      "name": "Dragula Racers",
+      "description": "Monster-themed racing gogang."
+    },
+    {
+      "id": "eastern_tigers_triad",
+      "name": "Eastern Tigers Triad",
+      "description": "Recently arrived Chinese organized-crime ring."
+    },
+    {
+      "id": "edgerunners_inc",
+      "name": "Edgerunners Inc",
+      "description": "Young edgerunners working to reconnect the Old Combat Zone to Night City."
+    },
+    {
+      "id": "el_norte_cartel",
+      "name": "El Norte Cartel",
+      "description": "Mexican cartel expanding into Night City; rumored link to city manager Theresa Valentino."
+    },
+    {
+      "id": "the_enhanced",
+      "name": "The Enhanced",
+      "description": "Cyber-cult believing cyberpsychosis is human evolution’s next stage."
+    },
+    {
+      "id": "eurotrashers",
+      "name": "Eurotrashers",
+      "description": "Party gang in Little Europe; members sport an unplaceable 'European' accent."
+    },
+    {
+      "id": "the_faded",
+      "name": "The Faded",
+      "description": "Older edgerunners trying to keep the Old Combat Zone free of Night City intervention."
+    },
+    {
+      "id": "fixies_couriers",
+      "name": "Fixie’s Couriers",
+      "description": "Collective of bicycle messengers supervised by the fixer 'Fixie'."
+    },
+    {
+      "id": "g3",
+      "name": "G3",
+      "description": "Disturbingly violent anime-themed poser gang."
+    },
+    {
+      "id": "generation_red",
+      "name": "Generation Red",
+      "description": "Yogang based in the Old Combat Zone."
+    },
+    {
+      "id": "gold_dragons",
+      "name": "Gold Dragons",
+      "description": "Protection gang in Little China under David Ling Po."
+    },
+    {
+      "id": "inquisitors",
+      "name": "Inquisitors",
+      "description": "Cyber-hating cult that forcibly removes ware to 'save' souls."
+    },
+    {
+      "id": "iron_sights",
+      "name": "Iron Sights",
+      "description": "Brutal combat gang sponsored by fixer Hornet."
+    },
+    {
+      "id": "kanzaki_family",
+      "name": "Kanzaki Family",
+      "description": "Last surviving Yakuza faction in Night City; rivals of the Tyger Claws."
+    },
+    {
+      "id": "kill_krashers",
+      "name": "Kill Krashers",
+      "description": "New gang that glorifies violence; expanding rapidly."
+    },
+    {
+      "id": "lightning_cats",
+      "name": "Lightning Cats",
+      "description": "Bioexotic cat gang prowling the Hot Zone."
+    },
+    {
+      "id": "maelstrom",
+      "name": "Maelstrom",
+      "description": "Combat gang led by Warlock; operates on a ruthless might-makes-right code."
+    },
+    {
+      "id": "mudang_gumi",
+      "name": "Mudang Gumi",
+      "description": "Netrunner-burglar gang focused on data theft."
+    },
+    {
+      "id": "the_muses",
+      "name": "The Muses",
+      "description": "Roller-derby poser gang mixing disco and Greek-myth vibes."
+    },
+    {
+      "id": "philharmonic_vampyres",
+      "name": "Philharmonic Vampyres",
+      "description": "Gang torn between gothic artistry and prankster chaos."
+    },
+    {
+      "id": "piranhas",
+      "name": "Piranhas",
+      "description": "Night City’s headline party gang—now hosts its own legendary events."
+    },
+    {
+      "id": "princesses_of_justice",
+      "name": "Princesses of Justice",
+      "description": "Poser gang inspired by an old cartoon; protects victims of abuse."
+    },
+    {
+      "id": "rat_kings",
+      "name": "Rat Kings",
+      "description": "Small boostergang squatting in the half-built H4 Megabuilding."
+    },
+    {
+      "id": "reckoners",
+      "name": "Reckoners",
+      "description": "Nihilistic cult preaching an upcoming 'Harvest of Souls'."
+    },
+    {
+      "id": "red_chrome_legion",
+      "name": "Red Chrome Legion",
+      "description": "Neo-nazi gang locked in attrition warfare with the Iron Sights."
+    },
+    {
+      "id": "scavvers",
+      "name": "Scavvers",
+      "description": "Cluster of small groups scraping tech from ruins and combat zones."
+    },
+    {
+      "id": "sinful_adams",
+      "name": "Sinful Adams",
+      "description": "Goth poser gang haunting the South Night City boneyard."
+    },
+    {
+      "id": "skiv_family",
+      "name": "Skiv Family",
+      "description": "Dominant mafia outfit controlling the Heywood docks."
+    },
+    {
+      "id": "steel_vaqueros",
+      "name": "Steel Vaqueros",
+      "description": "Nomad pack roaming the West Coast; recruits locals as junior packmates."
+    },
+    {
+      "id": "prime_time_players",
+      "name": "Prime-Time Players",
+      "description": "Poser gang themed after vintage sitcoms; split into show-based factions."
+    },
+    {
+      "id": "the_shroomers",
+      "name": "The Shroomers",
+      "description": "Survivalist-gardener collective farming fungi beneath the Old Combat Zone."
+    },
+    {
+      "id": "street_queens",
+      "name": "The Street Queens",
+      "description": "Guardian gang defending Night City’s queer communities."
+    },
+    {
+      "id": "the_toecutters",
+      "name": "The Toecutters",
+      "description": "Raffen Shiv clan on Night City’s eastern fringe; rumored cannibals."
+    },
+    {
+      "id": "tombstone_preservers",
+      "name": "Tombstone Preservers",
+      "description": "Guardian gang committed to defending the sanctity of the dead."
+    },
+    {
+      "id": "tyger_claws",
+      "name": "Tyger Claws",
+      "description": "Former Arasaka proxy gang, now ruling Kabuki and Old Japantown."
+    },
+    {
+      "id": "undertow",
+      "name": "Undertow",
+      "description": "Militant anti-gentrification gang active in Little Europe and Downtown."
+    },
+    {
+      "id": "voodoo_boys",
+      "name": "Voodoo Boys",
+      "description": "Drug-focused poser gang clad in Hollywood-style voodoo trappings."
+    },
+    {
+      "id": "weng_fang_tong",
+      "name": "Weng Fang Tong",
+      "description": "Syndicate running gambling and sex-work rackets; led by David Ling Po."
+    },
+    {
+      "id": "wild_things",
+      "name": "Wild Things",
+      "description": "Boostergang channeling violence into gladiatorial bouts at the Redline."
+    },
+    {
+      "id": "willows",
+      "name": "Willows",
+      "description": "Therapy-oriented group of female combat veterans."
+    },
+    {
+      "id": "yellow_brick_road_gang",
+      "name": "Yellow Brick Road Gang",
+      "description": "Poser gang modeled after 'The Wizard of Oz'."
+    },
+    {
+      "id": "the_zoners",
+      "name": "The Zoners",
+      "description": "Community-organizer movement improving South Night City living conditions."
+    }
+  ]
+}

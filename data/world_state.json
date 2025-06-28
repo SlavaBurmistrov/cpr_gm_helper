@@ -1,0 +1,2625 @@
+{
+  "locations": [
+    {
+      "id": "little_europe",
+      "name": "Little Europe",
+      "description": "A DISTRICT DIVIDED BETWEEN CLASSES AND TIMES, WITH OLD BRICK BUILDINGS STANDING NEXT TO FUTURISTIC SKYSCRAPERS.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "AMANDA POLISHCHUK (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "6TH STREET",
+        "EUROTRASHERS",
+        "MAELSTROM",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_europe_camden_court",
+      "name": "Camden Court",
+      "description": "A secure apartment complex favored by solos and execs.",
+      "type": "SubLocation",
+      "parent_location": "little_europe",
+      "city_manager": "AMANDA POLISHCHUK (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "6TH STREET",
+        "EUROTRASHERS",
+        "MAELSTROM",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_europe_chopper_s",
+      "name": "Choppers",
+      "description": "Formerly a butchers shop, now a bar. the meat grinder still works if you want to get rid of a body.",
+      "type": "SubLocation",
+      "parent_location": "little_europe",
+      "city_manager": "AMANDA POLISHCHUK (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "6TH STREET",
+        "EUROTRASHERS",
+        "MAELSTROM",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_europe_continental_brands_vertical_neighborhood",
+      "name": "Continental   Brands   Vertical Neighborhood",
+      "description": "Housing for continental brands employees. a nightmare to navigate due to its flavors of the world theming.",
+      "type": "SubLocation",
+      "parent_location": "little_europe",
+      "city_manager": "AMANDA POLISHCHUK (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "6TH STREET",
+        "EUROTRASHERS",
+        "MAELSTROM",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_europe_cube_a_rama",
+      "name": "Cube-A-Rama",
+      "description": "A cube hotel with an original brick exterior.",
+      "type": "SubLocation",
+      "parent_location": "little_europe",
+      "city_manager": "AMANDA POLISHCHUK (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "6TH STREET",
+        "EUROTRASHERS",
+        "MAELSTROM",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_europe_danger_gal_housing_facility",
+      "name": "Danger Gal Housing Facility",
+      "description": "Housing for danger gal employees. pink and full of life.",
+      "type": "SubLocation",
+      "parent_location": "little_europe",
+      "city_manager": "AMANDA POLISHCHUK (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "6TH STREET",
+        "EUROTRASHERS",
+        "MAELSTROM",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_europe_danger_gal_offices",
+      "name": "Danger Gal Offices",
+      "description": "Home base for danger gal, a private investigation and security neocorp.",
+      "type": "SubLocation",
+      "parent_location": "little_europe",
+      "city_manager": "AMANDA POLISHCHUK (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "6TH STREET",
+        "EUROTRASHERS",
+        "MAELSTROM",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_europe_fiddler_s_green",
+      "name": "FiddlerS Green",
+      "description": "An irish pub thats about as irish as green beer on saint pattys day.",
+      "type": "SubLocation",
+      "parent_location": "little_europe",
+      "city_manager": "AMANDA POLISHCHUK (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "6TH STREET",
+        "EUROTRASHERS",
+        "MAELSTROM",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_europe_greta_s",
+      "name": "GretaS",
+      "description": "The best pool hall in night city, with a strong lesbian client base.",
+      "type": "SubLocation",
+      "parent_location": "little_europe",
+      "city_manager": "AMANDA POLISHCHUK (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "6TH STREET",
+        "EUROTRASHERS",
+        "MAELSTROM",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_europe_holy_angels_church",
+      "name": "Holy Angels Church",
+      "description": "A catholic church run by father kevin and father paul. known far and wide as neutral ground in night city.",
+      "type": "SubLocation",
+      "parent_location": "little_europe",
+      "city_manager": "AMANDA POLISHCHUK (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "6TH STREET",
+        "EUROTRASHERS",
+        "MAELSTROM",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_europe_paradiso_terrestre",
+      "name": "Paradiso Terrestre",
+      "description": "An upscale southern neo-italian dining experience. meals by appointment only.",
+      "type": "SubLocation",
+      "parent_location": "little_europe",
+      "city_manager": "AMANDA POLISHCHUK (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "6TH STREET",
+        "EUROTRASHERS",
+        "MAELSTROM",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_europe_short_circuit",
+      "name": "Short Circuit",
+      "description": "Night citys premiere tech and netrunner bar. owned and operated by brain and his husband 3-piece.",
+      "type": "SubLocation",
+      "parent_location": "little_europe",
+      "city_manager": "AMANDA POLISHCHUK (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "6TH STREET",
+        "EUROTRASHERS",
+        "MAELSTROM",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_europe_soprano_s",
+      "name": "SopranoS",
+      "description": "An italian restaurant that leans heavily into its mafioso theming. the real mob gives it a pass.",
+      "type": "SubLocation",
+      "parent_location": "little_europe",
+      "city_manager": "AMANDA POLISHCHUK (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "6TH STREET",
+        "EUROTRASHERS",
+        "MAELSTROM",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_europe_torrell_and_chiang_s",
+      "name": "Torrell And ChiangS",
+      "description": "Considered by many to be the best tailors in night city.",
+      "type": "SubLocation",
+      "parent_location": "little_europe",
+      "city_manager": "AMANDA POLISHCHUK (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "6TH STREET",
+        "EUROTRASHERS",
+        "MAELSTROM",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "upper_marina",
+      "name": "Upper Marina",
+      "description": "A BUSTLING DISTRICT WITH A MIX OF OLD INDUSTRIAL ZONES AND GENTRIFIED NEIGHBORHOODS BUILT AROUND A SERIES OF DOCKS AND SMALL MARINAS.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "KABRIA CHUNG (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "MAELSTROM",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS"
+      ],
+      "events": []
+    },
+    {
+      "id": "upper_marina_the_afterlife",
+      "name": "The Afterlife",
+      "description": "The premiere edgerunner bar in night city. owned by the legendary solo, rogue.",
+      "type": "SubLocation",
+      "parent_location": "upper_marina",
+      "city_manager": "KABRIA CHUNG (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "MAELSTROM",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS"
+      ],
+      "events": []
+    },
+    {
+      "id": "upper_marina_buffalo_s",
+      "name": "BuffaloS",
+      "description": "The latest in a long line of failing restaurants opened in this location. serves global fusion cuisine.",
+      "type": "SubLocation",
+      "parent_location": "upper_marina",
+      "city_manager": "KABRIA CHUNG (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "MAELSTROM",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS"
+      ],
+      "events": []
+    },
+    {
+      "id": "upper_marina_city_medical_center",
+      "name": "City Medical Center",
+      "description": "An enormous hospital complex housing some of the best medical staff and technology in night city.",
+      "type": "SubLocation",
+      "parent_location": "upper_marina",
+      "city_manager": "KABRIA CHUNG (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "MAELSTROM",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS"
+      ],
+      "events": []
+    },
+    {
+      "id": "upper_marina_the_garden_of_earthly_delights",
+      "name": "The Garden Of Earthly Delights",
+      "description": "A full hedo-nistic experience brothel. a visit starts with dinner and ends with time spent with meat puppets programmed to the client\u2019s specifications.",
+      "type": "SubLocation",
+      "parent_location": "upper_marina",
+      "city_manager": "KABRIA CHUNG (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "MAELSTROM",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS"
+      ],
+      "events": []
+    },
+    {
+      "id": "upper_marina_graffitix",
+      "name": "Graffitix",
+      "description": "An art gallery displaying the work of night citys best up-and-coming artists.",
+      "type": "SubLocation",
+      "parent_location": "upper_marina",
+      "city_manager": "KABRIA CHUNG (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "MAELSTROM",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS"
+      ],
+      "events": []
+    },
+    {
+      "id": "upper_marina_la_lune_blue",
+      "name": "La Lune Blue",
+      "description": "A high-end french restaurant.",
+      "type": "SubLocation",
+      "parent_location": "upper_marina",
+      "city_manager": "KABRIA CHUNG (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "MAELSTROM",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS"
+      ],
+      "events": []
+    },
+    {
+      "id": "upper_marina_marina_floathomes",
+      "name": "Marina Floathomes",
+      "description": "A collection of small houseboats for rent.",
+      "type": "SubLocation",
+      "parent_location": "upper_marina",
+      "city_manager": "KABRIA CHUNG (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "MAELSTROM",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS"
+      ],
+      "events": []
+    },
+    {
+      "id": "upper_marina_mccartney_cubes",
+      "name": "Mccartney Cubes",
+      "description": "A cube hotel near the stadium.",
+      "type": "SubLocation",
+      "parent_location": "upper_marina",
+      "city_manager": "KABRIA CHUNG (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "MAELSTROM",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS"
+      ],
+      "events": []
+    },
+    {
+      "id": "upper_marina_mccartney_field_stadium",
+      "name": "Mccartney Field Stadium",
+      "description": "A 75,000 seat stadium and the heart of night citys sports and concert scene. franchises calling the stadium home include the slammers (baseball), heat (basketball), death dealers (combat soccer), nuke (murderball), and the new battlegrounds championship wrestling league.",
+      "type": "SubLocation",
+      "parent_location": "upper_marina",
+      "city_manager": "KABRIA CHUNG (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "MAELSTROM",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS"
+      ],
+      "events": []
+    },
+    {
+      "id": "upper_marina_night_city_bubbles",
+      "name": "Night City Bubbles",
+      "description": "A high-end spa. some employees can be hired as escorts for the evening.",
+      "type": "SubLocation",
+      "parent_location": "upper_marina",
+      "city_manager": "KABRIA CHUNG (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "MAELSTROM",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS"
+      ],
+      "events": []
+    },
+    {
+      "id": "upper_marina_reo_meatwagon_offices",
+      "name": "Reo Meatwagon Offices",
+      "description": "Home of night citys second-biggest ems operation.",
+      "type": "SubLocation",
+      "parent_location": "upper_marina",
+      "city_manager": "KABRIA CHUNG (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "MAELSTROM",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS"
+      ],
+      "events": []
+    },
+    {
+      "id": "upper_marina_travlstay_citycenter",
+      "name": "Travlstay Citycenter",
+      "description": "A cube hotel with paper-thin walls and absolutely no security.",
+      "type": "SubLocation",
+      "parent_location": "upper_marina",
+      "city_manager": "KABRIA CHUNG (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "MAELSTROM",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS"
+      ],
+      "events": []
+    },
+    {
+      "id": "downtown",
+      "name": "Downtown",
+      "description": "A NEW DISTRICT CARVED OUT OF LITTLE EUROPE BY MISTER KERNIGHAN AND A CONSORTIUM OF FIXERS AND EXECS KNOWN AS THE CHAMBER OF COMMERCE. DOWNTOWN IS PREPARING FOR NIGHT CITY\u2019S FULL REBIRTH BY CREATING THE MOST COM-MERCIALLY FRIENDLY DISTRICT ON THE ISLAND.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "EMILIA ORTEGA (APPOINTED BY CHAMBER OF COMMERCE)",
+      "security_provider": "WHITEWATER SECURITY",
+      "region": "THE ISLAND",
+      "factions": [
+        "EASTERN TIGERS TRIAD",
+        "SKIV FAMILY",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "downtown_acadia_way",
+      "name": "Acadia Way",
+      "description": "A single street containing restored bungalows, gated away from the rest of the world.",
+      "type": "SubLocation",
+      "parent_location": "downtown",
+      "city_manager": "EMILIA ORTEGA (APPOINTED BY CHAMBER OF COMMERCE)",
+      "security_provider": "WHITEWATER SECURITY",
+      "region": "THE ISLAND",
+      "factions": [
+        "EASTERN TIGERS TRIAD",
+        "SKIV FAMILY",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "downtown_continental_brands_offices",
+      "name": "Continental Brands Offices",
+      "description": "The night city headquarters of food juggernaut continental brands. also home to the oasis megamart, the largest grocery store in the city.",
+      "type": "SubLocation",
+      "parent_location": "downtown",
+      "city_manager": "EMILIA ORTEGA (APPOINTED BY CHAMBER OF COMMERCE)",
+      "security_provider": "WHITEWATER SECURITY",
+      "region": "THE ISLAND",
+      "factions": [
+        "EASTERN TIGERS TRIAD",
+        "SKIV FAMILY",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "downtown_cortex_complex",
+      "name": "Cortex Complex",
+      "description": "An ugly office building that vaguely resembles a human brain. home to jack skorkowski real estate and dizcom, an industrial design firm.",
+      "type": "SubLocation",
+      "parent_location": "downtown",
+      "city_manager": "EMILIA ORTEGA (APPOINTED BY CHAMBER OF COMMERCE)",
+      "security_provider": "WHITEWATER SECURITY",
+      "region": "THE ISLAND",
+      "factions": [
+        "EASTERN TIGERS TRIAD",
+        "SKIV FAMILY",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "downtown_delirium",
+      "name": "Delirium",
+      "description": "A gothpunk virtuality club.",
+      "type": "SubLocation",
+      "parent_location": "downtown",
+      "city_manager": "EMILIA ORTEGA (APPOINTED BY CHAMBER OF COMMERCE)",
+      "security_provider": "WHITEWATER SECURITY",
+      "region": "THE ISLAND",
+      "factions": [
+        "EASTERN TIGERS TRIAD",
+        "SKIV FAMILY",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "downtown_night_city_firestation_2",
+      "name": "Night City Firestation #2",
+      "description": "The most well-funded firestation in night city. it is well fortified, well equipped, and employs a number of fbc firefighters.",
+      "type": "SubLocation",
+      "parent_location": "downtown",
+      "city_manager": "EMILIA ORTEGA (APPOINTED BY CHAMBER OF COMMERCE)",
+      "security_provider": "WHITEWATER SECURITY",
+      "region": "THE ISLAND",
+      "factions": [
+        "EASTERN TIGERS TRIAD",
+        "SKIV FAMILY",
+        "UNDERTOW"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_hot_zone",
+      "name": "The Hot Zone",
+      "description": "FORMERLY THE CENTRAL CITY CORPORATE ZONE. NOW, A BLEAK LANDSCAPE RIDDLES WITH TWISTED, WRECKED SKYSCRAPERS. IT SHRINKS A BIT EACH YEAR AS THE EDGES ARE CLEARED AND REBUILT.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "NONE",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "LIGHTNING CATS",
+        "MAELSTROM",
+        "RECKONERS",
+        "VARIOUS SCAVVER GROUPS"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_hot_zone_the_ashcroft_hotel",
+      "name": "The Ashcroft Hotel",
+      "description": "Once the most luxurious hotel in night city. now the center of maelstroms hot zone scavenging operations.",
+      "type": "SubLocation",
+      "parent_location": "the_hot_zone",
+      "city_manager": "NONE",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "LIGHTNING CATS",
+        "MAELSTROM",
+        "RECKONERS",
+        "VARIOUS SCAVVER GROUPS"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_hot_zone_the_n54",
+      "name": "The N54",
+      "description": "The former home of network 54 in night city. the tallest structure still standing in the hot zone climbing it and tagging the top has become a tradition among urbanauts.",
+      "type": "SubLocation",
+      "parent_location": "the_hot_zone",
+      "city_manager": "NONE",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "LIGHTNING CATS",
+        "MAELSTROM",
+        "RECKONERS",
+        "VARIOUS SCAVVER GROUPS"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_hot_zone_toggle_s_temple",
+      "name": "ToggleS Temple",
+      "description": "An underground firearms range and obstacle course run by a conspiracy theorist named toggle.",
+      "type": "SubLocation",
+      "parent_location": "the_hot_zone",
+      "city_manager": "NONE",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "LIGHTNING CATS",
+        "MAELSTROM",
+        "RECKONERS",
+        "VARIOUS SCAVVER GROUPS"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_hot_zone_totentanz",
+      "name": "Totentanz",
+      "description": "A chrome metal club and home base for maelstrom.",
+      "type": "SubLocation",
+      "parent_location": "the_hot_zone",
+      "city_manager": "NONE",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "LIGHTNING CATS",
+        "MAELSTROM",
+        "RECKONERS",
+        "VARIOUS SCAVVER GROUPS"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_china",
+      "name": "Little China",
+      "description": "A STRUGGLING COMMUNITY ATTEMPTING TO CRAWL ITS WAY OUT OF THE COMBAT ZONES AND INTO THE REBUILDING URBAN CENTER.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "DAVID LING PO (APPOINTED BY THE LITTLE CHINA REDEVELOPMENT ASSOCIATION)",
+      "security_provider": "GOLD DRAGONS",
+      "region": "THE ISLAND",
+      "factions": [
+        "GOLD DRAGONS",
+        "RED CHROME LEGION",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_china_bridgetown",
+      "name": "Bridgetown",
+      "description": "A cargo container community stacked under the end of the pelican boulevard over-pass. it isn\u2019t uncommon for bodies to wash up on the waterfront nearby.",
+      "type": "SubLocation",
+      "parent_location": "little_china",
+      "city_manager": "DAVID LING PO (APPOINTED BY THE LITTLE CHINA REDEVELOPMENT ASSOCIATION)",
+      "security_provider": "GOLD DRAGONS",
+      "region": "THE ISLAND",
+      "factions": [
+        "GOLD DRAGONS",
+        "RED CHROME LEGION",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_china_chrome_cross",
+      "name": "Chrome Cross",
+      "description": "A dive bar frequented by the red chrome legion.",
+      "type": "SubLocation",
+      "parent_location": "little_china",
+      "city_manager": "DAVID LING PO (APPOINTED BY THE LITTLE CHINA REDEVELOPMENT ASSOCIATION)",
+      "security_provider": "GOLD DRAGONS",
+      "region": "THE ISLAND",
+      "factions": [
+        "GOLD DRAGONS",
+        "RED CHROME LEGION",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_china_forlorn_hope",
+      "name": "Forlorn Hope",
+      "description": "The home of the forlorn hope, a venerable edgerunner bar and night city institu-tion (before the events of tales of the red: hope reborn).",
+      "type": "SubLocation",
+      "parent_location": "little_china",
+      "city_manager": "DAVID LING PO (APPOINTED BY THE LITTLE CHINA REDEVELOPMENT ASSOCIATION)",
+      "security_provider": "GOLD DRAGONS",
+      "region": "THE ISLAND",
+      "factions": [
+        "GOLD DRAGONS",
+        "RED CHROME LEGION",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_china_gu_ngb_tower",
+      "name": "Gu ngb Tower",
+      "description": "A symbol of little chinas aspirations for the future, this restored tower houses a number of organizations and businesses, including the ling po public library and virtex\u2019s virtuality venue.",
+      "type": "SubLocation",
+      "parent_location": "little_china",
+      "city_manager": "DAVID LING PO (APPOINTED BY THE LITTLE CHINA REDEVELOPMENT ASSOCIATION)",
+      "security_provider": "GOLD DRAGONS",
+      "region": "THE ISLAND",
+      "factions": [
+        "GOLD DRAGONS",
+        "RED CHROME LEGION",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "little_china_prosperity_gardens_tenements",
+      "name": "Prosperity Gardens Tenements",
+      "description": "A block of mixed-use apartments holding way too many people. for mysterious reasons, it is also one of the safest places to live in little china.",
+      "type": "SubLocation",
+      "parent_location": "little_china",
+      "city_manager": "DAVID LING PO (APPOINTED BY THE LITTLE CHINA REDEVELOPMENT ASSOCIATION)",
+      "security_provider": "GOLD DRAGONS",
+      "region": "THE ISLAND",
+      "factions": [
+        "GOLD DRAGONS",
+        "RED CHROME LEGION",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "university_district",
+      "name": "University District",
+      "description": "A SLIM DISTRICT HOUSING THE CITYS ONLY TRADITIONAL INSTITU-TION OF HIGHER LEARNING.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "DOCTOR EDWARD MICHAELS (SELF-APPOINTED)",
+      "security_provider": "NCU CAMPUS SECURITY",
+      "region": "THE ISLAND",
+      "factions": [
+        "PHILHARMONIC VAMPYRES",
+        "PRINCESSES OF JUSTICE"
+      ],
+      "events": []
+    },
+    {
+      "id": "university_district_biotechnica_campus",
+      "name": "Biotechnica Campus",
+      "description": "The headquarters of biotechnica in night city. strange sounds can be heard from the campus at night.",
+      "type": "SubLocation",
+      "parent_location": "university_district",
+      "city_manager": "DOCTOR EDWARD MICHAELS (SELF-APPOINTED)",
+      "security_provider": "NCU CAMPUS SECURITY",
+      "region": "THE ISLAND",
+      "factions": [
+        "PHILHARMONIC VAMPYRES",
+        "PRINCESSES OF JUSTICE"
+      ],
+      "events": []
+    },
+    {
+      "id": "university_district_biotechnica_habitation_sphere_alpha",
+      "name": "Biotechnica Habitation Sphere Alpha",
+      "description": "A geodesic dome serving as housing for biotechnica employees.",
+      "type": "SubLocation",
+      "parent_location": "university_district",
+      "city_manager": "DOCTOR EDWARD MICHAELS (SELF-APPOINTED)",
+      "security_provider": "NCU CAMPUS SECURITY",
+      "region": "THE ISLAND",
+      "factions": [
+        "PHILHARMONIC VAMPYRES",
+        "PRINCESSES OF JUSTICE"
+      ],
+      "events": []
+    },
+    {
+      "id": "university_district_night_city_symphony_hall",
+      "name": "Night City Symphony Hall",
+      "description": "A performance space owned and operated by the philharmonic vampyres.",
+      "type": "SubLocation",
+      "parent_location": "university_district",
+      "city_manager": "DOCTOR EDWARD MICHAELS (SELF-APPOINTED)",
+      "security_provider": "NCU CAMPUS SECURITY",
+      "region": "THE ISLAND",
+      "factions": [
+        "PHILHARMONIC VAMPYRES",
+        "PRINCESSES OF JUSTICE"
+      ],
+      "events": []
+    },
+    {
+      "id": "university_district_night_city_university",
+      "name": "Night City University",
+      "description": "A college campus built up into something of a fortified monastery. the center of higher education in night city.",
+      "type": "SubLocation",
+      "parent_location": "university_district",
+      "city_manager": "DOCTOR EDWARD MICHAELS (SELF-APPOINTED)",
+      "security_provider": "NCU CAMPUS SECURITY",
+      "region": "THE ISLAND",
+      "factions": [
+        "PHILHARMONIC VAMPYRES",
+        "PRINCESSES OF JUSTICE"
+      ],
+      "events": []
+    },
+    {
+      "id": "university_district_parkside_living",
+      "name": "Parkside Living",
+      "description": "Apartments occupied primar-ily by ncu students and some faculty. always loud and boisterous.",
+      "type": "SubLocation",
+      "parent_location": "university_district",
+      "city_manager": "DOCTOR EDWARD MICHAELS (SELF-APPOINTED)",
+      "security_provider": "NCU CAMPUS SECURITY",
+      "region": "THE ISLAND",
+      "factions": [
+        "PHILHARMONIC VAMPYRES",
+        "PRINCESSES OF JUSTICE"
+      ],
+      "events": []
+    },
+    {
+      "id": "university_district_princessland",
+      "name": "Princessland!",
+      "description": "An abandoned carnival themed around an old animated show. now home to the princesses of justice.",
+      "type": "SubLocation",
+      "parent_location": "university_district",
+      "city_manager": "DOCTOR EDWARD MICHAELS (SELF-APPOINTED)",
+      "security_provider": "NCU CAMPUS SECURITY",
+      "region": "THE ISLAND",
+      "factions": [
+        "PHILHARMONIC VAMPYRES",
+        "PRINCESSES OF JUSTICE"
+      ],
+      "events": []
+    },
+    {
+      "id": "university_district_stems_seeds",
+      "name": "Stems & Seeds",
+      "description": "A guerilla gardening operation run by lily larson, a former researcher for petrochem.",
+      "type": "SubLocation",
+      "parent_location": "university_district",
+      "city_manager": "DOCTOR EDWARD MICHAELS (SELF-APPOINTED)",
+      "security_provider": "NCU CAMPUS SECURITY",
+      "region": "THE ISLAND",
+      "factions": [
+        "PHILHARMONIC VAMPYRES",
+        "PRINCESSES OF JUSTICE"
+      ],
+      "events": []
+    },
+    {
+      "id": "university_district_university_cubes",
+      "name": "University Cubes",
+      "description": "Cheap rooms for university students on a budget.",
+      "type": "SubLocation",
+      "parent_location": "university_district",
+      "city_manager": "DOCTOR EDWARD MICHAELS (SELF-APPOINTED)",
+      "security_provider": "NCU CAMPUS SECURITY",
+      "region": "THE ISLAND",
+      "factions": [
+        "PHILHARMONIC VAMPYRES",
+        "PRINCESSES OF JUSTICE"
+      ],
+      "events": []
+    },
+    {
+      "id": "university_district_yewtree",
+      "name": "Yewtree",
+      "description": "A neo-hipster bar working in collusion with ncu security to keep students quiet while drinking in the district.",
+      "type": "SubLocation",
+      "parent_location": "university_district",
+      "city_manager": "DOCTOR EDWARD MICHAELS (SELF-APPOINTED)",
+      "security_provider": "NCU CAMPUS SECURITY",
+      "region": "THE ISLAND",
+      "factions": [
+        "PHILHARMONIC VAMPYRES",
+        "PRINCESSES OF JUSTICE"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_glen",
+      "name": "The Glen",
+      "description": "THE ADMINISTRATIVE CENTER OF NIGHT CITY; FULL OF MOVERS, SHAKERS, AND POWER PLAYERS.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "ZOHARA FREEMAN (APPOINTED BY NIGHT CORP)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "DEADWOODS",
+        "KILL KRASHERS",
+        "THE RECKONERS",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_glen_1st_night_city_bank",
+      "name": "1St Night City Bank",
+      "description": "The largest bank in night city and the most likely source of loan money for local projects (usually lent to people with plenty of money of their own).",
+      "type": "SubLocation",
+      "parent_location": "the_glen",
+      "city_manager": "ZOHARA FREEMAN (APPOINTED BY NIGHT CORP)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "DEADWOODS",
+        "KILL KRASHERS",
+        "THE RECKONERS",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_glen_air",
+      "name": "Air",
+      "description": "An oxygen bar for those who can afford the fresh stuff.",
+      "type": "SubLocation",
+      "parent_location": "the_glen",
+      "city_manager": "ZOHARA FREEMAN (APPOINTED BY NIGHT CORP)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "DEADWOODS",
+        "KILL KRASHERS",
+        "THE RECKONERS",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_glen_bear_s",
+      "name": "BearS",
+      "description": "Famous for its microbrew selection and the moth-eaten bear head sitting above the bar.",
+      "type": "SubLocation",
+      "parent_location": "the_glen",
+      "city_manager": "ZOHARA FREEMAN (APPOINTED BY NIGHT CORP)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "DEADWOODS",
+        "KILL KRASHERS",
+        "THE RECKONERS",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_glen_city_hall",
+      "name": "City Hall",
+      "description": "The seat of local government in night city.",
+      "type": "SubLocation",
+      "parent_location": "the_glen",
+      "city_manager": "ZOHARA FREEMAN (APPOINTED BY NIGHT CORP)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "DEADWOODS",
+        "KILL KRASHERS",
+        "THE RECKONERS",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_glen_city_police_precinct_1",
+      "name": "City Police Precinct #1",
+      "description": "The first line of defense against the gangs of the combat zones for those who can afford it.",
+      "type": "SubLocation",
+      "parent_location": "the_glen",
+      "city_manager": "ZOHARA FREEMAN (APPOINTED BY NIGHT CORP)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "DEADWOODS",
+        "KILL KRASHERS",
+        "THE RECKONERS",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_glen_club_atlantis",
+      "name": "Club Atlantis",
+      "description": "A glamorous, multi-level club with a flashy, avant-garde, and disorienting style.",
+      "type": "SubLocation",
+      "parent_location": "the_glen",
+      "city_manager": "ZOHARA FREEMAN (APPOINTED BY NIGHT CORP)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "DEADWOODS",
+        "KILL KRASHERS",
+        "THE RECKONERS",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_glen_glenlife_perfected",
+      "name": "Glenlife Perfected",
+      "description": "An apartment building. looks great on the outside. not so great on the inside.",
+      "type": "SubLocation",
+      "parent_location": "the_glen",
+      "city_manager": "ZOHARA FREEMAN (APPOINTED BY NIGHT CORP)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "DEADWOODS",
+        "KILL KRASHERS",
+        "THE RECKONERS",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_glen_hall_of_justice",
+      "name": "Hall Of Justice",
+      "description": "Courthouse and jail all in one. an imposing, brutalist structure.",
+      "type": "SubLocation",
+      "parent_location": "the_glen",
+      "city_manager": "ZOHARA FREEMAN (APPOINTED BY NIGHT CORP)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "DEADWOODS",
+        "KILL KRASHERS",
+        "THE RECKONERS",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_glen_kasim_s",
+      "name": "Kasims",
+      "description": "A turkish coffee and tobacco bar. closed on fridays so the owner and his family can attend prayers.",
+      "type": "SubLocation",
+      "parent_location": "the_glen",
+      "city_manager": "ZOHARA FREEMAN (APPOINTED BY NIGHT CORP)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "DEADWOODS",
+        "KILL KRASHERS",
+        "THE RECKONERS",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_glen_merrill_asukaga_finch_offices",
+      "name": "Merrill, Asukaga & Finch Offices",
+      "description": "The night city headquarters of the worlds largest inde-pendent financial and investment institution. the tall skyscraper houses additional businesses.",
+      "type": "SubLocation",
+      "parent_location": "the_glen",
+      "city_manager": "ZOHARA FREEMAN (APPOINTED BY NIGHT CORP)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "DEADWOODS",
+        "KILL KRASHERS",
+        "THE RECKONERS",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_glen_night_city_plaza",
+      "name": "Night City Plaza",
+      "description": "A beautiful park open to the public. the largest green space in night city.",
+      "type": "SubLocation",
+      "parent_location": "the_glen",
+      "city_manager": "ZOHARA FREEMAN (APPOINTED BY NIGHT CORP)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "DEADWOODS",
+        "KILL KRASHERS",
+        "THE RECKONERS",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_glen_raven_microcybernetics",
+      "name": "Raven Microcybernetics",
+      "description": "Night city headquarters for a major cybernetics company. the skyscraper also houses some of the company\u2019s close business partners.",
+      "type": "SubLocation",
+      "parent_location": "the_glen",
+      "city_manager": "ZOHARA FREEMAN (APPOINTED BY NIGHT CORP)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "DEADWOODS",
+        "KILL KRASHERS",
+        "THE RECKONERS",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "the_glen_seafoam",
+      "name": "Seafoam",
+      "description": "A cube hotel close to club atlantis. the party never stops here, though revelers sometimes wake up after a bender missing money, inventory, or chrome courtesy of the reckoners.",
+      "type": "SubLocation",
+      "parent_location": "the_glen",
+      "city_manager": "ZOHARA FREEMAN (APPOINTED BY NIGHT CORP)",
+      "security_provider": "NCPD",
+      "region": "THE ISLAND",
+      "factions": [
+        "DEADWOODS",
+        "KILL KRASHERS",
+        "THE RECKONERS",
+        "WENG FANG TONG"
+      ],
+      "events": []
+    },
+    {
+      "id": "old_japantown",
+      "name": "Old Japantown",
+      "description": "MOST OF NIGHT CITYS ETHNIC JAPANESE POPULATION HAS MOVED NORTH, BUT ENOUGH STILL CLING TOGETHER HERE TO FORM ISLANDS OF CIVILIZATION IN A SEA OF COMBAT ZONE CHAOS.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "ADRIANE CASSELLE (ELECTED BY LOCAL FAMILY HEADS)",
+      "security_provider": "KIMEN-GUMI",
+      "region": "THE ISLAND",
+      "factions": [
+        "IRON SIGHTS",
+        "MAELSTROM",
+        "RED CHROME LEGION",
+        "THE SHROOMERS",
+        "TYGER CLAWS"
+      ],
+      "events": []
+    },
+    {
+      "id": "old_japantown_crisis_medical_center",
+      "name": "Crisis Medical Center",
+      "description": "A no-questions asked medical center supplied with surprisingly advanced technology. multiple corps use it as a staging ground to run medical experiments.",
+      "type": "SubLocation",
+      "parent_location": "old_japantown",
+      "city_manager": "ADRIANE CASSELLE (ELECTED BY LOCAL FAMILY HEADS)",
+      "security_provider": "KIMEN-GUMI",
+      "region": "THE ISLAND",
+      "factions": [
+        "IRON SIGHTS",
+        "MAELSTROM",
+        "RED CHROME LEGION",
+        "THE SHROOMERS",
+        "TYGER CLAWS"
+      ],
+      "events": []
+    },
+    {
+      "id": "old_japantown_highcourt_plaza_hotel",
+      "name": "Highcourt Plaza Hotel",
+      "description": "A classy and well-de-fended hotel providing excellent service. most guests arrive via av to avoid driving through a combat zone.",
+      "type": "SubLocation",
+      "parent_location": "old_japantown",
+      "city_manager": "ADRIANE CASSELLE (ELECTED BY LOCAL FAMILY HEADS)",
+      "security_provider": "KIMEN-GUMI",
+      "region": "THE ISLAND",
+      "factions": [
+        "IRON SIGHTS",
+        "MAELSTROM",
+        "RED CHROME LEGION",
+        "THE SHROOMERS",
+        "TYGER CLAWS"
+      ],
+      "events": []
+    },
+    {
+      "id": "old_japantown_honest_hiro_s_used_cars",
+      "name": "Honest HiroS Used Cars",
+      "description": "A used car deal-ership supplied by the steel vaqueros (and other nomads) and protected by edgerunners who trade service for vehicles.",
+      "type": "SubLocation",
+      "parent_location": "old_japantown",
+      "city_manager": "ADRIANE CASSELLE (ELECTED BY LOCAL FAMILY HEADS)",
+      "security_provider": "KIMEN-GUMI",
+      "region": "THE ISLAND",
+      "factions": [
+        "IRON SIGHTS",
+        "MAELSTROM",
+        "RED CHROME LEGION",
+        "THE SHROOMERS",
+        "TYGER CLAWS"
+      ],
+      "events": []
+    },
+    {
+      "id": "old_japantown_mrs_suzuki_s_bodega",
+      "name": "Mrs. SuzukiS Bodega",
+      "description": "The most secure and stable market in old japantown. known for being the only distribution point for mushrooms grown by the shroomers.",
+      "type": "SubLocation",
+      "parent_location": "old_japantown",
+      "city_manager": "ADRIANE CASSELLE (ELECTED BY LOCAL FAMILY HEADS)",
+      "security_provider": "KIMEN-GUMI",
+      "region": "THE ISLAND",
+      "factions": [
+        "IRON SIGHTS",
+        "MAELSTROM",
+        "RED CHROME LEGION",
+        "THE SHROOMERS",
+        "TYGER CLAWS"
+      ],
+      "events": []
+    },
+    {
+      "id": "old_japantown_the_precipice",
+      "name": "The Precipice",
+      "description": "A cargo container community. many of the residents earn extra cash by volunteering for experiments at crisis medical.",
+      "type": "SubLocation",
+      "parent_location": "old_japantown",
+      "city_manager": "ADRIANE CASSELLE (ELECTED BY LOCAL FAMILY HEADS)",
+      "security_provider": "KIMEN-GUMI",
+      "region": "THE ISLAND",
+      "factions": [
+        "IRON SIGHTS",
+        "MAELSTROM",
+        "RED CHROME LEGION",
+        "THE SHROOMERS",
+        "TYGER CLAWS"
+      ],
+      "events": []
+    },
+    {
+      "id": "old_japantown_unnamed_cube_hotel",
+      "name": "Unnamed Cube Hotel",
+      "description": "The rooms are cleaned out by ceiling-mounted water jets, and the locks on the doors are dodgy, but at least there are no cameras and no questions.",
+      "type": "SubLocation",
+      "parent_location": "old_japantown",
+      "city_manager": "ADRIANE CASSELLE (ELECTED BY LOCAL FAMILY HEADS)",
+      "security_provider": "KIMEN-GUMI",
+      "region": "THE ISLAND",
+      "factions": [
+        "IRON SIGHTS",
+        "MAELSTROM",
+        "RED CHROME LEGION",
+        "THE SHROOMERS",
+        "TYGER CLAWS"
+      ],
+      "events": []
+    },
+    {
+      "id": "south_night_city",
+      "name": "South Night City",
+      "description": "A SPRAWLING MIX OF INDUSTRY AND RESIDENTIAL BUILDINGS. IT IS A COMBAT ZONE PRIMARILY BECAUSE THE CITY MANAGER, GAVEN HAAKENSEN, CARES MORE ABOUT LINING HIS POCKETS THAN HE DOES DOING HIS JOB. THAT DOESN\u2019T MAKE HIM UNUSUAL, BUT HE\u2019S MORE BLATANT ABOUT IT THAN MOST. CITY  MANAGER:  GARVEN  HAAKENSEN (SELF-APPOINTED) SECURITY PROVIDER: SCYTHE SECURITY GANGS PRESENT: BOZOS, DEADWOODS, THE ENHANCED, KANZAKI FAMILY, KILL KRASHERS, THE RECKONERS, THE SINFUL ADAMS, TYGER CLAWS, THE ZONERS \u25b6 SOUTH NIGHT CITY LOCATIONS \u25c0 (I1) THE BONEYARD: FORMERLY THE NIGHT CITY GARDEN OF REST. NOW A SHANTY TOWN AND HOME TO THE SINFUL ADAMS. THEY RUN AN ANNUAL FESTIVAL ON HALLOWEEN FOR THE DISTRICT\u2019S RESIDENTS. (I2) MINDNUTZ LOVER: THE HOTTEST BRAINDANCE CLUB IN SOUTH NIGHT CITY. (I3) SAVAGE DOCS: A MULTI-RIPPERDOC OPERATION OF GOOD REPUTATION PROTECTED BY BOTH THE YAKUZA AND THE TYGER CLAWS (DESPITE THEIR DIFFERENCES). (I4) SILVERHAND STUDIOS: APARTMENTS AND STUDIO SPACE RENTED OUT TO ARTISTS AND MUSICIANS. RUN BY THE COUSIN OF LEGENDARY ROCKERBOY KERRY EURODYNE. (I5) THE SLAMMER: A GANGER BAR. HOME OF THE ARENA, A NO-HOLDS-BARRED COMBAT RING GANGERS CAN STEP INTO TO SETTLE THEIR DISPUTES WITHOUT MURDER. (I6) SOUTH CARGO VILLAGE: A CARGO CONTAINER COM-MUNITY. DESPITE BEING ON THE BORDER OF THE GLEN, IT IS STILL IN A COMBAT ZONE, AND THE COPS TREAT IT AS SUCH. (I7) UNION CHAPEL BUILDING: ONCE AN ARCHITECTURAL LANDMARK. NOW ABANDONED, IN THEORY. SOME THINK THE RECKONERS USE THE BASEMENT AS A REFUGE. (I8) UNIVERSITY CARGO BAY: CARGO CONTAINER HOUSING FOR UNIVERSITY STUDENTS. PORT OF NIGHT CITY (J) A CENTRAL LOCATION FOR CARGO ENTERING AND LEAVING NIGHT CITY BY SEA. RUN BY NOMADS FROM THE THELAS NATION.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "CALYPSO (APPOINTED BY THELAS ELDERS)",
+      "security_provider": "THELAS MARINES",
+      "region": "THE ISLAND",
+      "factions": [
+        "CONSORTIUM",
+        "DEADWOODS"
+      ],
+      "events": []
+    },
+    {
+      "id": "south_night_city_dock_13",
+      "name": "Dock 13",
+      "description": "The storefront (and occasional night market) of marketing genius willy mister amaaaze maze.",
+      "type": "SubLocation",
+      "parent_location": "south_night_city",
+      "city_manager": "CALYPSO (APPOINTED BY THELAS ELDERS)",
+      "security_provider": "THELAS MARINES",
+      "region": "THE ISLAND",
+      "factions": [
+        "CONSORTIUM",
+        "DEADWOODS"
+      ],
+      "events": []
+    },
+    {
+      "id": "south_night_city_dock_14_studio_apartments",
+      "name": "Dock 14 Studio Apartments",
+      "description": "An apartment building just one dock away from the always loud dock 13.",
+      "type": "SubLocation",
+      "parent_location": "south_night_city",
+      "city_manager": "CALYPSO (APPOINTED BY THELAS ELDERS)",
+      "security_provider": "THELAS MARINES",
+      "region": "THE ISLAND",
+      "factions": [
+        "CONSORTIUM",
+        "DEADWOODS"
+      ],
+      "events": []
+    },
+    {
+      "id": "south_night_city_dock_cargo_community",
+      "name": "Dock Cargo Community",
+      "description": "A cargo container community nestled between the docks.",
+      "type": "SubLocation",
+      "parent_location": "south_night_city",
+      "city_manager": "CALYPSO (APPOINTED BY THELAS ELDERS)",
+      "security_provider": "THELAS MARINES",
+      "region": "THE ISLAND",
+      "factions": [
+        "CONSORTIUM",
+        "DEADWOODS"
+      ],
+      "events": []
+    },
+    {
+      "id": "south_night_city_flotsam",
+      "name": "Flotsam",
+      "description": "A small drift town just off the coast. it consists of several larger vessels run aground con-nected by smaller boats, rafts, and walkways. the randy dandy, a mobile bar, often docks here.",
+      "type": "SubLocation",
+      "parent_location": "south_night_city",
+      "city_manager": "CALYPSO (APPOINTED BY THELAS ELDERS)",
+      "security_provider": "THELAS MARINES",
+      "region": "THE ISLAND",
+      "factions": [
+        "CONSORTIUM",
+        "DEADWOODS"
+      ],
+      "events": []
+    },
+    {
+      "id": "south_night_city_medical_technologies",
+      "name": "Medical Technologies",
+      "description": "A body bank special-izing in growing replacement limbs. known for buying and selling dodgy cyberware as well.",
+      "type": "SubLocation",
+      "parent_location": "south_night_city",
+      "city_manager": "CALYPSO (APPOINTED BY THELAS ELDERS)",
+      "security_provider": "THELAS MARINES",
+      "region": "THE ISLAND",
+      "factions": [
+        "CONSORTIUM",
+        "DEADWOODS"
+      ],
+      "events": []
+    },
+    {
+      "id": "south_night_city_rusty_s_dive_shack",
+      "name": "RustyS Dive Shack",
+      "description": "A rough-and-tumble bar for sea-faring types. built out of the bridge of an old container sub.",
+      "type": "SubLocation",
+      "parent_location": "south_night_city",
+      "city_manager": "CALYPSO (APPOINTED BY THELAS ELDERS)",
+      "security_provider": "THELAS MARINES",
+      "region": "THE ISLAND",
+      "factions": [
+        "CONSORTIUM",
+        "DEADWOODS"
+      ],
+      "events": []
+    },
+    {
+      "id": "south_night_city_south_night_city_reclaimed_studio",
+      "name": "South Night City Reclaimed Studio",
+      "description": "An apart-ment building near the water. leaving the building risks encountering gangers visiting medical technologies.",
+      "type": "SubLocation",
+      "parent_location": "south_night_city",
+      "city_manager": "CALYPSO (APPOINTED BY THELAS ELDERS)",
+      "security_provider": "THELAS MARINES",
+      "region": "THE ISLAND",
+      "factions": [
+        "CONSORTIUM",
+        "DEADWOODS"
+      ],
+      "events": []
+    },
+    {
+      "id": "reclamation_zone",
+      "name": "Reclamation Zone",
+      "description": "A SMALL ENCLAVE RUN BY NOMADS TURNED RECLAIMERS. THEYVE TAKEN OVER THE OPERATION OF NIGHT CITYS PUBLIC TRANSPORTATION, EXCHANGING THEIR TECHNICAL AND MOTOR SKILLS FOR THE LAND.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "SANTOS DORADO (ELECTED BY DISTRICT RESIDENTS)",
+      "security_provider": "LOS PERROS GUARDIANES",
+      "region": "THE ISLAND",
+      "factions": [
+        "TOMBSTONE PRESERVERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "reclamation_zone_herschel_s_crematorium",
+      "name": "HerschelS Crematorium",
+      "description": "A funeral home run by an undertaker who truly believes everyone deserves a dignified sendoff into the next life.",
+      "type": "SubLocation",
+      "parent_location": "reclamation_zone",
+      "city_manager": "SANTOS DORADO (ELECTED BY DISTRICT RESIDENTS)",
+      "security_provider": "LOS PERROS GUARDIANES",
+      "region": "THE ISLAND",
+      "factions": [
+        "TOMBSTONE PRESERVERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "old_combat_zone",
+      "name": "Old Combat Zone",
+      "description": "IN THE LATE 2010S AND EARLY 2020S, NIGHT CITY BEGAN EXPANDING THE ISLAND BY FILLING IN LAND TO THE SOUTHEAST. IN THE AFTERMATH OF THE 4TH CORPORATE WAR, WHAT WAS INTENDED TO BE A SHINING BEACON OF INDUSTRIAL MIGHT DEVOLVED INTO THE WORST COMBAT ZONE NIGHT CITY HAD EVER SEEN. SLOWLY, INCH BY INCH, GROUPS OF EDGERUNNERS HAVE STRIVED TO REBUILD IT.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "BRICK COLEMAN (AS LEADER OF EDGERUNNERS INC)",
+      "security_provider": "EDGERUNNERS INC",
+      "region": "THE ISLAND",
+      "factions": [
+        "EDGERUNNERS INC",
+        "THE FADED",
+        "GENERATION RED",
+        "IRON SIGHTS",
+        "THE SHROOMERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "old_combat_zone_from_the_ashes",
+      "name": "From The Ashes",
+      "description": "A sliding scale clinic run by phoenix redwyne.",
+      "type": "SubLocation",
+      "parent_location": "old_combat_zone",
+      "city_manager": "BRICK COLEMAN (AS LEADER OF EDGERUNNERS INC)",
+      "security_provider": "EDGERUNNERS INC",
+      "region": "THE ISLAND",
+      "factions": [
+        "EDGERUNNERS INC",
+        "THE FADED",
+        "GENERATION RED",
+        "IRON SIGHTS",
+        "THE SHROOMERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "old_combat_zone_jesse_james_kosher_deli",
+      "name": "Jesse James Kosher Deli",
+      "description": "More of a saloon than a deli, though for a small fortune you can get a pretty good corned beef on rye.",
+      "type": "SubLocation",
+      "parent_location": "old_combat_zone",
+      "city_manager": "BRICK COLEMAN (AS LEADER OF EDGERUNNERS INC)",
+      "security_provider": "EDGERUNNERS INC",
+      "region": "THE ISLAND",
+      "factions": [
+        "EDGERUNNERS INC",
+        "THE FADED",
+        "GENERATION RED",
+        "IRON SIGHTS",
+        "THE SHROOMERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "old_combat_zone_nc_ionic_semiconductor_building",
+      "name": "Nc Ionic Semiconductor Building",
+      "description": "A fac-tory-turned-cargo community. many iron sights stash family members here for safety.",
+      "type": "SubLocation",
+      "parent_location": "old_combat_zone",
+      "city_manager": "BRICK COLEMAN (AS LEADER OF EDGERUNNERS INC)",
+      "security_provider": "EDGERUNNERS INC",
+      "region": "THE ISLAND",
+      "factions": [
+        "EDGERUNNERS INC",
+        "THE FADED",
+        "GENERATION RED",
+        "IRON SIGHTS",
+        "THE SHROOMERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "old_combat_zone_the_underground",
+      "name": "The Underground",
+      "description": "The home of the shroomers, located deep beneath the streets of night city.",
+      "type": "SubLocation",
+      "parent_location": "old_combat_zone",
+      "city_manager": "BRICK COLEMAN (AS LEADER OF EDGERUNNERS INC)",
+      "security_provider": "EDGERUNNERS INC",
+      "region": "THE ISLAND",
+      "factions": [
+        "EDGERUNNERS INC",
+        "THE FADED",
+        "GENERATION RED",
+        "IRON SIGHTS",
+        "THE SHROOMERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "norcal_military_base",
+      "name": "Norcal Military Base",
+      "description": "HOME OF THE ESTERO BAY MILITARY COG (A MIXTURE OF VARIOUS MILITARY UNITS INTO A SINGLE ORGANIZED GROUP). IN THEORY, THE COG IS LOYAL TO NORCAL AND THE PACIFICA CONFEDERATION, BUT THEY\u2019VE ALSO MADE A DEAL WITH MILITECH, TRADING LAND AND ACCESS FOR TRAINING AND MUNITIONS.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "GENERAL ASH GIOVANNI (BASE COMMANDER)",
+      "security_provider": "NORCAL MILITARY POLICE",
+      "region": "NORTHSIDE",
+      "factions": [
+        "CULPER RING"
+      ],
+      "events": []
+    },
+    {
+      "id": "norcal_military_base_militech_corporate_operatives_housing",
+      "name": "Militech Corporate Operatives Housing",
+      "description": "Secure housing for militech employees.",
+      "type": "SubLocation",
+      "parent_location": "norcal_military_base",
+      "city_manager": "GENERAL ASH GIOVANNI (BASE COMMANDER)",
+      "security_provider": "NORCAL MILITARY POLICE",
+      "region": "NORTHSIDE",
+      "factions": [
+        "CULPER RING"
+      ],
+      "events": []
+    },
+    {
+      "id": "norcal_military_base_militech_offices",
+      "name": "Militech Offices",
+      "description": "Night city headquarters for militech, a one-stop shop for all your military and security needs.",
+      "type": "SubLocation",
+      "parent_location": "norcal_military_base",
+      "city_manager": "GENERAL ASH GIOVANNI (BASE COMMANDER)",
+      "security_provider": "NORCAL MILITARY POLICE",
+      "region": "NORTHSIDE",
+      "factions": [
+        "CULPER RING"
+      ],
+      "events": []
+    },
+    {
+      "id": "watson_development",
+      "name": "Watson Development",
+      "description": "A DEVELOPING DISTRICT BUILT UP BY THE NIGHT CITY CO-PROSPERITY SPHERE (NCCS), AN ALLIANCE OF VARIOUS CORPORATIONS (PRI-MARILY OF JAPANESE ORIGIN). LAST YEAR, COMMUNITY ORGANIZER LUCIUS RHYNE LED A DISTRICT-WIDE LABOR STRIKE, FORCING THE NCCS TO ORGANIZE A GENERAL ELECTION FOR CITY MANAGER. RHYNE WON THE RESULTING RACE HANDILY.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "LUCIUS RHYNE (ELECTED VIA GENERAL ELECTION)",
+      "security_provider": "NCPD",
+      "region": "NORTHSIDE",
+      "factions": [
+        "ARZIN TYNON",
+        "DRAGULA RACERS",
+        "G3",
+        "KANZAKI FAMILY",
+        "TYGER CLAWS",
+        "WILD THINGS"
+      ],
+      "events": []
+    },
+    {
+      "id": "watson_development_city_police_precinct_3",
+      "name": "City Police Precinct #3",
+      "description": "A large, well-armed police precinct. the egos of some cops here took a bruis-ing when they were unable to break up the labor strike.",
+      "type": "SubLocation",
+      "parent_location": "watson_development",
+      "city_manager": "LUCIUS RHYNE (ELECTED VIA GENERAL ELECTION)",
+      "security_provider": "NCPD",
+      "region": "NORTHSIDE",
+      "factions": [
+        "ARZIN TYNON",
+        "DRAGULA RACERS",
+        "G3",
+        "KANZAKI FAMILY",
+        "TYGER CLAWS",
+        "WILD THINGS"
+      ],
+      "events": []
+    },
+    {
+      "id": "watson_development_htown",
+      "name": "Htown",
+      "description": "A tent city built outside the walls of a gated community. tensions are high.",
+      "type": "SubLocation",
+      "parent_location": "watson_development",
+      "city_manager": "LUCIUS RHYNE (ELECTED VIA GENERAL ELECTION)",
+      "security_provider": "NCPD",
+      "region": "NORTHSIDE",
+      "factions": [
+        "ARZIN TYNON",
+        "DRAGULA RACERS",
+        "G3",
+        "KANZAKI FAMILY",
+        "TYGER CLAWS",
+        "WILD THINGS"
+      ],
+      "events": []
+    },
+    {
+      "id": "watson_development_petrochem_sovoil_joint_temporary_housing_solution",
+      "name": "Petrochem & Sovoil Joint Temporary Housing Solution",
+      "description": "In a twist of irony, both petrochem and sovoil provide employee housing in the same building. no one is happy about it.",
+      "type": "SubLocation",
+      "parent_location": "watson_development",
+      "city_manager": "LUCIUS RHYNE (ELECTED VIA GENERAL ELECTION)",
+      "security_provider": "NCPD",
+      "region": "NORTHSIDE",
+      "factions": [
+        "ARZIN TYNON",
+        "DRAGULA RACERS",
+        "G3",
+        "KANZAKI FAMILY",
+        "TYGER CLAWS",
+        "WILD THINGS"
+      ],
+      "events": []
+    },
+    {
+      "id": "watson_development_petrochem_offices",
+      "name": "Petrochem Offices",
+      "description": "The heavily defended headquarters of petrochem in night city. theres a small museum dedicated to the history of petroleum. across the street from the sovoil offices.",
+      "type": "SubLocation",
+      "parent_location": "watson_development",
+      "city_manager": "LUCIUS RHYNE (ELECTED VIA GENERAL ELECTION)",
+      "security_provider": "NCPD",
+      "region": "NORTHSIDE",
+      "factions": [
+        "ARZIN TYNON",
+        "DRAGULA RACERS",
+        "G3",
+        "KANZAKI FAMILY",
+        "TYGER CLAWS",
+        "WILD THINGS"
+      ],
+      "events": []
+    },
+    {
+      "id": "watson_development_red_oktober",
+      "name": "Red Oktober",
+      "description": "A soviet-themed bar built into an old subway station.",
+      "type": "SubLocation",
+      "parent_location": "watson_development",
+      "city_manager": "LUCIUS RHYNE (ELECTED VIA GENERAL ELECTION)",
+      "security_provider": "NCPD",
+      "region": "NORTHSIDE",
+      "factions": [
+        "ARZIN TYNON",
+        "DRAGULA RACERS",
+        "G3",
+        "KANZAKI FAMILY",
+        "TYGER CLAWS",
+        "WILD THINGS"
+      ],
+      "events": []
+    },
+    {
+      "id": "watson_development_redline",
+      "name": "Redline",
+      "description": "Home of the most thrilling bloodsport in night city and the wild things, a gang dedicated to organized competitive violence.",
+      "type": "SubLocation",
+      "parent_location": "watson_development",
+      "city_manager": "LUCIUS RHYNE (ELECTED VIA GENERAL ELECTION)",
+      "security_provider": "NCPD",
+      "region": "NORTHSIDE",
+      "factions": [
+        "ARZIN TYNON",
+        "DRAGULA RACERS",
+        "G3",
+        "KANZAKI FAMILY",
+        "TYGER CLAWS",
+        "WILD THINGS"
+      ],
+      "events": []
+    },
+    {
+      "id": "watson_development_sakura_s",
+      "name": "SakuraS",
+      "description": "A night city interpretation of an izakaya, an informal bar.",
+      "type": "SubLocation",
+      "parent_location": "watson_development",
+      "city_manager": "LUCIUS RHYNE (ELECTED VIA GENERAL ELECTION)",
+      "security_provider": "NCPD",
+      "region": "NORTHSIDE",
+      "factions": [
+        "ARZIN TYNON",
+        "DRAGULA RACERS",
+        "G3",
+        "KANZAKI FAMILY",
+        "TYGER CLAWS",
+        "WILD THINGS"
+      ],
+      "events": []
+    },
+    {
+      "id": "watson_development_smash_cut",
+      "name": "Smash/Cut",
+      "description": "An edm club where the chromed up go to dance, do drugs, and have anonymous sex.",
+      "type": "SubLocation",
+      "parent_location": "watson_development",
+      "city_manager": "LUCIUS RHYNE (ELECTED VIA GENERAL ELECTION)",
+      "security_provider": "NCPD",
+      "region": "NORTHSIDE",
+      "factions": [
+        "ARZIN TYNON",
+        "DRAGULA RACERS",
+        "G3",
+        "KANZAKI FAMILY",
+        "TYGER CLAWS",
+        "WILD THINGS"
+      ],
+      "events": []
+    },
+    {
+      "id": "watson_development_sovoil_offices",
+      "name": "Sovoil Offices",
+      "description": "Night city headquarters for sovoil. completely off-limits to the public. across the street from the petrochem offices.",
+      "type": "SubLocation",
+      "parent_location": "watson_development",
+      "city_manager": "LUCIUS RHYNE (ELECTED VIA GENERAL ELECTION)",
+      "security_provider": "NCPD",
+      "region": "NORTHSIDE",
+      "factions": [
+        "ARZIN TYNON",
+        "DRAGULA RACERS",
+        "G3",
+        "KANZAKI FAMILY",
+        "TYGER CLAWS",
+        "WILD THINGS"
+      ],
+      "events": []
+    },
+    {
+      "id": "watson_development_trauma_team_corporate_living_center",
+      "name": "Trauma Team Corporate Living Center",
+      "description": "Housing for trauma team employees.",
+      "type": "SubLocation",
+      "parent_location": "watson_development",
+      "city_manager": "LUCIUS RHYNE (ELECTED VIA GENERAL ELECTION)",
+      "security_provider": "NCPD",
+      "region": "NORTHSIDE",
+      "factions": [
+        "ARZIN TYNON",
+        "DRAGULA RACERS",
+        "G3",
+        "KANZAKI FAMILY",
+        "TYGER CLAWS",
+        "WILD THINGS"
+      ],
+      "events": []
+    },
+    {
+      "id": "watson_development_trauma_team_tower",
+      "name": "Trauma Team Tower",
+      "description": "Night city headquar-ters for trauma team. includes an av repair bay and a hospital for the exclusive use of executive-level clients.",
+      "type": "SubLocation",
+      "parent_location": "watson_development",
+      "city_manager": "LUCIUS RHYNE (ELECTED VIA GENERAL ELECTION)",
+      "security_provider": "NCPD",
+      "region": "NORTHSIDE",
+      "factions": [
+        "ARZIN TYNON",
+        "DRAGULA RACERS",
+        "G3",
+        "KANZAKI FAMILY",
+        "TYGER CLAWS",
+        "WILD THINGS"
+      ],
+      "events": []
+    },
+    {
+      "id": "watson_development_vargtimmen",
+      "name": "Vargtimmen",
+      "description": "A neo-pagan mead bar. famous for their solstice and equinox parties.",
+      "type": "SubLocation",
+      "parent_location": "watson_development",
+      "city_manager": "LUCIUS RHYNE (ELECTED VIA GENERAL ELECTION)",
+      "security_provider": "NCPD",
+      "region": "NORTHSIDE",
+      "factions": [
+        "ARZIN TYNON",
+        "DRAGULA RACERS",
+        "G3",
+        "KANZAKI FAMILY",
+        "TYGER CLAWS",
+        "WILD THINGS"
+      ],
+      "events": []
+    },
+    {
+      "id": "watson_development_watson_central_cubelife",
+      "name": "Watson Central Cubelife",
+      "description": "A bog standard cube hotel.",
+      "type": "SubLocation",
+      "parent_location": "watson_development",
+      "city_manager": "LUCIUS RHYNE (ELECTED VIA GENERAL ELECTION)",
+      "security_provider": "NCPD",
+      "region": "NORTHSIDE",
+      "factions": [
+        "ARZIN TYNON",
+        "DRAGULA RACERS",
+        "G3",
+        "KANZAKI FAMILY",
+        "TYGER CLAWS",
+        "WILD THINGS"
+      ],
+      "events": []
+    },
+    {
+      "id": "kabuki",
+      "name": "Kabuki",
+      "description": "A SMALL DISTRICT CENTERED AROUND THE NAKAGAWA KABUKI THEATER. COMMON WISDOM HOLDS THAT WHILE WATSON ACTS AS THE ARMS AND LEGS OF THE NIGHT CITY CO-PROSPERITY SPHERE, KABUKI IS ITS BRAIN AND HEART.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "YOSHIKI MURAKAMI (APPOINTED BY THE NCCS)",
+      "security_provider": "KIMEN-GUMI",
+      "region": "NORTHSIDE",
+      "factions": [
+        "G3",
+        "TYGER CLAWS"
+      ],
+      "events": []
+    },
+    {
+      "id": "kabuki_nakagawa_kabuki_theater",
+      "name": "Nakagawa Kabuki Theater",
+      "description": "The most magnificent building in northside. home to a kabuki troupe said to be the equal of any in japan, as well as a museum and the central offices of the tyger claws leadership.",
+      "type": "SubLocation",
+      "parent_location": "kabuki",
+      "city_manager": "YOSHIKI MURAKAMI (APPOINTED BY THE NCCS)",
+      "security_provider": "KIMEN-GUMI",
+      "region": "NORTHSIDE",
+      "factions": [
+        "G3",
+        "TYGER CLAWS"
+      ],
+      "events": []
+    },
+    {
+      "id": "kabuki_yum_seng",
+      "name": "Yum Seng",
+      "description": "A host and hostess bar famous for its seafood and soundproof karaoke boxes.",
+      "type": "SubLocation",
+      "parent_location": "kabuki",
+      "city_manager": "YOSHIKI MURAKAMI (APPOINTED BY THE NCCS)",
+      "security_provider": "KIMEN-GUMI",
+      "region": "NORTHSIDE",
+      "factions": [
+        "G3",
+        "TYGER CLAWS"
+      ],
+      "events": []
+    },
+    {
+      "id": "new_westbrook",
+      "name": "New Westbrook",
+      "description": "AN URBAN SPRAWL BUILT IN THE REMAINS OF AN UPSCALE SUBURB. IT MIXES GLITZ AND GLAM WITH TENT CITIES AND LOW-RENT HOUSING. MOST OF THE NORTHERN PART OF THE DISTRICT IS OCCUPIED BY A WALLED-OFF FAKE CITY WHERE NETWORK 54 RUNS AND FILMS THE COMBAT ZONE, A BATTLE ROYALE \u201cGAME SHOW\u201d IN WHICH FIFTY PEOPLE ENTER AND ONLY ONE GETS TO LEAVE ALIVE WITH A YEAR\u2019S WORTH OF REAL CHICKEN DINNERS AS THE PRIZE.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "BELKIS ABERA (APPOINTED BY WORLDSAT AND NETWORK 54)",
+      "security_provider": "NCPD",
+      "region": "MAINLAND",
+      "factions": [
+        "ARZIN TYNON",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS",
+        "TOMBSTONE PRESERVERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "new_westbrook_canalside_plaza",
+      "name": "Canalside Plaza",
+      "description": "A strip mall. home to the sizzle jams talent agency, a rickshaws, a capitn caliente restaurant, the mane event hair and nail salon, and an oasis.",
+      "type": "SubLocation",
+      "parent_location": "new_westbrook",
+      "city_manager": "BELKIS ABERA (APPOINTED BY WORLDSAT AND NETWORK 54)",
+      "security_provider": "NCPD",
+      "region": "MAINLAND",
+      "factions": [
+        "ARZIN TYNON",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS",
+        "TOMBSTONE PRESERVERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "new_westbrook_chatelaine_s",
+      "name": "ChatelaineS",
+      "description": "An early 20th-century style cabaret and burlesque queer club so popular it attracts a number of straight tourists.",
+      "type": "SubLocation",
+      "parent_location": "new_westbrook",
+      "city_manager": "BELKIS ABERA (APPOINTED BY WORLDSAT AND NETWORK 54)",
+      "security_provider": "NCPD",
+      "region": "MAINLAND",
+      "factions": [
+        "ARZIN TYNON",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS",
+        "TOMBSTONE PRESERVERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "new_westbrook_dilly_s",
+      "name": "DillyS",
+      "description": "A love hotel with a unique mascot a cartoon pickle wearing a rolled-up condom as a beanie.",
+      "type": "SubLocation",
+      "parent_location": "new_westbrook",
+      "city_manager": "BELKIS ABERA (APPOINTED BY WORLDSAT AND NETWORK 54)",
+      "security_provider": "NCPD",
+      "region": "MAINLAND",
+      "factions": [
+        "ARZIN TYNON",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS",
+        "TOMBSTONE PRESERVERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "new_westbrook_evergreen_apartments",
+      "name": "Evergreen Apartments",
+      "description": "A former big box store transformed into a cube hotel. for the right price, the landlord is more than happy to evict existing tenants for you.",
+      "type": "SubLocation",
+      "parent_location": "new_westbrook",
+      "city_manager": "BELKIS ABERA (APPOINTED BY WORLDSAT AND NETWORK 54)",
+      "security_provider": "NCPD",
+      "region": "MAINLAND",
+      "factions": [
+        "ARZIN TYNON",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS",
+        "TOMBSTONE PRESERVERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "new_westbrook_network_54_offices",
+      "name": "Network 54 Offices",
+      "description": "The night city head-quarters and broadcasting tower for network 54.",
+      "type": "SubLocation",
+      "parent_location": "new_westbrook",
+      "city_manager": "BELKIS ABERA (APPOINTED BY WORLDSAT AND NETWORK 54)",
+      "security_provider": "NCPD",
+      "region": "MAINLAND",
+      "factions": [
+        "ARZIN TYNON",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS",
+        "TOMBSTONE PRESERVERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "new_westbrook_network_54_westbrook_private_acres",
+      "name": "Network 54 Westbrook Private Acres",
+      "description": "A gated community of duplexes for the use of network 54 employees.",
+      "type": "SubLocation",
+      "parent_location": "new_westbrook",
+      "city_manager": "BELKIS ABERA (APPOINTED BY WORLDSAT AND NETWORK 54)",
+      "security_provider": "NCPD",
+      "region": "MAINLAND",
+      "factions": [
+        "ARZIN TYNON",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS",
+        "TOMBSTONE PRESERVERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "new_westbrook_night_city_firestation_1",
+      "name": "Night City Firestation #1",
+      "description": "A well-supplied firestation. it specializes in av-based firefighting.",
+      "type": "SubLocation",
+      "parent_location": "new_westbrook",
+      "city_manager": "BELKIS ABERA (APPOINTED BY WORLDSAT AND NETWORK 54)",
+      "security_provider": "NCPD",
+      "region": "MAINLAND",
+      "factions": [
+        "ARZIN TYNON",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS",
+        "TOMBSTONE PRESERVERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "new_westbrook_north_cargo_village",
+      "name": "North Cargo Village",
+      "description": "A cargo container com-munity stacked in an abandoned parking lot.",
+      "type": "SubLocation",
+      "parent_location": "new_westbrook",
+      "city_manager": "BELKIS ABERA (APPOINTED BY WORLDSAT AND NETWORK 54)",
+      "security_provider": "NCPD",
+      "region": "MAINLAND",
+      "factions": [
+        "ARZIN TYNON",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS",
+        "TOMBSTONE PRESERVERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "new_westbrook_rocklin_augmentics_campus",
+      "name": "Rocklin Augmentics Campus",
+      "description": "Night city headquarters of rocklin augmentics, including offices, meeting spaces, and a research hospital.",
+      "type": "SubLocation",
+      "parent_location": "new_westbrook",
+      "city_manager": "BELKIS ABERA (APPOINTED BY WORLDSAT AND NETWORK 54)",
+      "security_provider": "NCPD",
+      "region": "MAINLAND",
+      "factions": [
+        "ARZIN TYNON",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS",
+        "TOMBSTONE PRESERVERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "new_westbrook_rocklin_augmentics_innovation_hub",
+      "name": "Rocklin Augmentics Innovation Hub",
+      "description": "Corporate housing for rocklin augmentics employees. they are encouraged to use the various maker spaces built inside.",
+      "type": "SubLocation",
+      "parent_location": "new_westbrook",
+      "city_manager": "BELKIS ABERA (APPOINTED BY WORLDSAT AND NETWORK 54)",
+      "security_provider": "NCPD",
+      "region": "MAINLAND",
+      "factions": [
+        "ARZIN TYNON",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS",
+        "TOMBSTONE PRESERVERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "new_westbrook_worldsat_offices",
+      "name": "Worldsat Offices",
+      "description": "A heavily defended com-pound on the edge of the city. it is not only the local headquarters of worldsat but also the junction point for satellite communications between night city and the outside world.",
+      "type": "SubLocation",
+      "parent_location": "new_westbrook",
+      "city_manager": "BELKIS ABERA (APPOINTED BY WORLDSAT AND NETWORK 54)",
+      "security_provider": "NCPD",
+      "region": "MAINLAND",
+      "factions": [
+        "ARZIN TYNON",
+        "PRIME-TIME PLAYERS",
+        "STREET QUEENS",
+        "TOMBSTONE PRESERVERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "charter_hill",
+      "name": "Charter Hill",
+      "description": "A SMALL BUT INFLUENTIAL COMMUNITY. ON A CLEAR DAY, THE RESIDENTS OF CHARTER HILL CAN SEE THE WALLS OF THE EXEC ZONE AND DREAM OF CLIMBING EVEN HIGHER ON THE CORPORATE LADDER.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "SYMON FEATHERSTONEHAUGH (ELECTED BY PROPERTY OWNERS)",
+      "security_provider": "MILITECH",
+      "region": "MAINLAND",
+      "factions": [],
+      "events": []
+    },
+    {
+      "id": "exec_zone",
+      "name": "Exec Zone",
+      "description": "THE SINGLE MOST SECURE DISTRICT IN NIGHT CITY. ONLY THE TRULY ELITE LIVE HERE.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "DOCTOR KAREN DAVIES (ELECTED BY HOME OWNERS ASSOCIATION)",
+      "security_provider": "LAZARUS",
+      "region": "MAINLAND",
+      "factions": [
+        "NONE"
+      ],
+      "events": []
+    },
+    {
+      "id": "heywood_docks",
+      "name": "Heywood Docks",
+      "description": "AS THE WORLD RETURNS TO NORMAL, CORPORATIONS ARE LOOKING TO CUT THE NOMAD NATIONS OUT OF THE SHIPPING AND LOGISTICS EQUATION. LARGER VESSELS CAN\u2019T USE THE HEYWOOD DOCKS, BUT SMALLER, CORPORATE-SPONSORED SHIPS MOVING UP AND DOWN THE WEST COAST CAN.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "ANDREA LEE (APPOINTED BY SK SECURITY)",
+      "security_provider": "SK SECURITY",
+      "region": "MAINLAND",
+      "factions": [
+        "DEADWOODS",
+        "SKIV FAMILY"
+      ],
+      "events": []
+    },
+    {
+      "id": "heywood_docks_greenbox_storage_units",
+      "name": "Greenbox Storage Units",
+      "description": "Technically a secure storage facility, but customers have been known to live inside the units.",
+      "type": "SubLocation",
+      "parent_location": "heywood_docks",
+      "city_manager": "ANDREA LEE (APPOINTED BY SK SECURITY)",
+      "security_provider": "SK SECURITY",
+      "region": "MAINLAND",
+      "factions": [
+        "DEADWOODS",
+        "SKIV FAMILY"
+      ],
+      "events": []
+    },
+    {
+      "id": "north_heywood",
+      "name": "North Heywood",
+      "description": "OVER THE PAST DECADE, HEYWOOD HAS BEEN DIVIDED INTO TWO DISTRICTS. IN THE NORTH ARE WORKADAY RESIDENTS, MANY OF WHOM HAVE FOUND JOBS IN THE NEARBY HEYWOOD INDUSTRIAL ZONE.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "BARRY BIG DEAL DELVECCHIO (APPOINTED BY DISTRICT COUNCIL)",
+      "security_provider": "6TH STREET",
+      "region": "MAINLAND",
+      "factions": [
+        "6TH STREET",
+        "INQUISITORS",
+        "THE MUSES",
+        "THE TOECUTTERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "north_heywood_acorn_towers",
+      "name": "Acorn Towers",
+      "description": "A dual-tower apartment complex housing dynalar employees.",
+      "type": "SubLocation",
+      "parent_location": "north_heywood",
+      "city_manager": "BARRY BIG DEAL DELVECCHIO (APPOINTED BY DISTRICT COUNCIL)",
+      "security_provider": "6TH STREET",
+      "region": "MAINLAND",
+      "factions": [
+        "6TH STREET",
+        "INQUISITORS",
+        "THE MUSES",
+        "THE TOECUTTERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "north_heywood_the_armory",
+      "name": "The Armory",
+      "description": "A former national guard armory transformed into the headquarters of 6th street.",
+      "type": "SubLocation",
+      "parent_location": "north_heywood",
+      "city_manager": "BARRY BIG DEAL DELVECCHIO (APPOINTED BY DISTRICT COUNCIL)",
+      "security_provider": "6TH STREET",
+      "region": "MAINLAND",
+      "factions": [
+        "6TH STREET",
+        "INQUISITORS",
+        "THE MUSES",
+        "THE TOECUTTERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "north_heywood_biotechnica_palm_grove",
+      "name": "Biotechnica Palm Grove",
+      "description": "A grove of experimental palm trees owned and monitored by biotechnica.",
+      "type": "SubLocation",
+      "parent_location": "north_heywood",
+      "city_manager": "BARRY BIG DEAL DELVECCHIO (APPOINTED BY DISTRICT COUNCIL)",
+      "security_provider": "6TH STREET",
+      "region": "MAINLAND",
+      "factions": [
+        "6TH STREET",
+        "INQUISITORS",
+        "THE MUSES",
+        "THE TOECUTTERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "north_heywood_converted_motel_studio_apartments",
+      "name": "Converted Motel Studio Apartments",
+      "description": "A no-name motel transformed into no-name apartments on the edge of the city.",
+      "type": "SubLocation",
+      "parent_location": "north_heywood",
+      "city_manager": "BARRY BIG DEAL DELVECCHIO (APPOINTED BY DISTRICT COUNCIL)",
+      "security_provider": "6TH STREET",
+      "region": "MAINLAND",
+      "factions": [
+        "6TH STREET",
+        "INQUISITORS",
+        "THE MUSES",
+        "THE TOECUTTERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "north_heywood_dynalar_campus",
+      "name": "Dynalar Campus",
+      "description": "The regional headquarters of dynalar, a popular cyberware and electronics company.",
+      "type": "SubLocation",
+      "parent_location": "north_heywood",
+      "city_manager": "BARRY BIG DEAL DELVECCHIO (APPOINTED BY DISTRICT COUNCIL)",
+      "security_provider": "6TH STREET",
+      "region": "MAINLAND",
+      "factions": [
+        "6TH STREET",
+        "INQUISITORS",
+        "THE MUSES",
+        "THE TOECUTTERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "north_heywood_forlorn_hope",
+      "name": "Forlorn Hope",
+      "description": "The home of the forlorn hope, a venerable edgerunner bar and night city institu-tion (after the events of tales of the red: hope reborn).",
+      "type": "SubLocation",
+      "parent_location": "north_heywood",
+      "city_manager": "BARRY BIG DEAL DELVECCHIO (APPOINTED BY DISTRICT COUNCIL)",
+      "security_provider": "6TH STREET",
+      "region": "MAINLAND",
+      "factions": [
+        "6TH STREET",
+        "INQUISITORS",
+        "THE MUSES",
+        "THE TOECUTTERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "north_heywood_nana_meow_s_nursery",
+      "name": "Nana MeowS Nursery",
+      "description": "Not a guerilla garden itself but a shop that supplies gear and seeds to guerilla gardeners.",
+      "type": "SubLocation",
+      "parent_location": "north_heywood",
+      "city_manager": "BARRY BIG DEAL DELVECCHIO (APPOINTED BY DISTRICT COUNCIL)",
+      "security_provider": "6TH STREET",
+      "region": "MAINLAND",
+      "factions": [
+        "6TH STREET",
+        "INQUISITORS",
+        "THE MUSES",
+        "THE TOECUTTERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "north_heywood_night_city_animal_shelter",
+      "name": "Night City Animal Shelter",
+      "description": "A former veteri-narian clinic now occupied by a ripperdoc. it special-izes in exotics and bioexotics.",
+      "type": "SubLocation",
+      "parent_location": "north_heywood",
+      "city_manager": "BARRY BIG DEAL DELVECCHIO (APPOINTED BY DISTRICT COUNCIL)",
+      "security_provider": "6TH STREET",
+      "region": "MAINLAND",
+      "factions": [
+        "6TH STREET",
+        "INQUISITORS",
+        "THE MUSES",
+        "THE TOECUTTERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "north_heywood_woodland_park",
+      "name": "Woodland Park",
+      "description": "A small neighborhood near the dynalar campus. highlights include the burning bright bodega, breeze (a mom and pop drug store), the palms cargo container community, the shark apartment building, and the zolletta cube hotel.",
+      "type": "SubLocation",
+      "parent_location": "north_heywood",
+      "city_manager": "BARRY BIG DEAL DELVECCHIO (APPOINTED BY DISTRICT COUNCIL)",
+      "security_provider": "6TH STREET",
+      "region": "MAINLAND",
+      "factions": [
+        "6TH STREET",
+        "INQUISITORS",
+        "THE MUSES",
+        "THE TOECUTTERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "north_heywood_xanadu",
+      "name": "Xanadu",
+      "description": "A roller derby rink and disco tech. home of the muses.",
+      "type": "SubLocation",
+      "parent_location": "north_heywood",
+      "city_manager": "BARRY BIG DEAL DELVECCHIO (APPOINTED BY DISTRICT COUNCIL)",
+      "security_provider": "6TH STREET",
+      "region": "MAINLAND",
+      "factions": [
+        "6TH STREET",
+        "INQUISITORS",
+        "THE MUSES",
+        "THE TOECUTTERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "heywood_industrial_zone",
+      "name": "Heywood Industrial Zone",
+      "description": "THE LARGEST INDUSTRIAL ZONE IN NIGHT CITY, OVERFLOWING WITH WAREHOUSES, CONSTRUCTION EQUIPMENT, FACTORIES, AND EVEN SOME DERELICT CARGO SHIPS.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "THEO WALKER (APPOINTED BY THE ARROYO CONCERN)",
+      "security_provider": "NCPD",
+      "region": "MAINLAND",
+      "factions": [
+        "CONSORTIUM",
+        "DEADWOODS",
+        "THE ENHANCED",
+        "FIXIES COURIERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "heywood_industrial_zone_d_v_rambling_rose",
+      "name": "D.V. Rambling Rose",
+      "description": "An ancient vessel stuck in dry dock. home base for fixies couriers.",
+      "type": "SubLocation",
+      "parent_location": "heywood_industrial_zone",
+      "city_manager": "THEO WALKER (APPOINTED BY THE ARROYO CONCERN)",
+      "security_provider": "NCPD",
+      "region": "MAINLAND",
+      "factions": [
+        "CONSORTIUM",
+        "DEADWOODS",
+        "THE ENHANCED",
+        "FIXIES COURIERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "heywood_industrial_zone_old_ironworks_building",
+      "name": "Old Ironworks Building",
+      "description": "The inside has been converted into apartments, and the landlords have stacked cargo container housing on the roof.",
+      "type": "SubLocation",
+      "parent_location": "heywood_industrial_zone",
+      "city_manager": "THEO WALKER (APPOINTED BY THE ARROYO CONCERN)",
+      "security_provider": "NCPD",
+      "region": "MAINLAND",
+      "factions": [
+        "CONSORTIUM",
+        "DEADWOODS",
+        "THE ENHANCED",
+        "FIXIES COURIERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "heywood_industrial_zone_yang_s_wheels",
+      "name": "YangS Wheels",
+      "description": "The headquarters, manu-facturing factory, and warehouse of yang\u2019s wheels, night city\u2019s biggest provider of inexpensive wheeled transportation.",
+      "type": "SubLocation",
+      "parent_location": "heywood_industrial_zone",
+      "city_manager": "THEO WALKER (APPOINTED BY THE ARROYO CONCERN)",
+      "security_provider": "NCPD",
+      "region": "MAINLAND",
+      "factions": [
+        "CONSORTIUM",
+        "DEADWOODS",
+        "THE ENHANCED",
+        "FIXIES COURIERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "heywood_industrial_zone_zhirafa_office_park",
+      "name": "Zhirafa Office Park",
+      "description": "The night city head-quarters of zhirafa. drones are used for both labor and security.",
+      "type": "SubLocation",
+      "parent_location": "heywood_industrial_zone",
+      "city_manager": "THEO WALKER (APPOINTED BY THE ARROYO CONCERN)",
+      "security_provider": "NCPD",
+      "region": "MAINLAND",
+      "factions": [
+        "CONSORTIUM",
+        "DEADWOODS",
+        "THE ENHANCED",
+        "FIXIES COURIERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "heywood_industrial_zone_zhirafa_office_park_microvillage",
+      "name": "Zhirafa Office Park Microvillage",
+      "description": "Corporate housing for zhirafa employees, colorfully disguised as cargo containers.",
+      "type": "SubLocation",
+      "parent_location": "heywood_industrial_zone",
+      "city_manager": "THEO WALKER (APPOINTED BY THE ARROYO CONCERN)",
+      "security_provider": "NCPD",
+      "region": "MAINLAND",
+      "factions": [
+        "CONSORTIUM",
+        "DEADWOODS",
+        "THE ENHANCED",
+        "FIXIES COURIERS"
+      ],
+      "events": []
+    },
+    {
+      "id": "santo_domingo",
+      "name": "Santo Domingo",
+      "description": "SOUTH HEYWOOD IS BETTER KNOWN BY THE LOCALS AS SANTO DOMINO. THE NOMAD CAMP NEAR THE DAM HEAVILY INFLU-ENCES THE DISTRICT, BUT THE ALDECALDOS POWER MAY BE WANING. THERESA VALENTINO, AN INDEPENDENT CANDIDATE, RECENTLY WON THE ELECTION FOR CITY MANAGER THANKS TO BACKING FROM THE EL NORTE CARTEL.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "THERESA VALENTINO (ELECTED BY RESIDENTS)",
+      "security_provider": "ALDECALDO PEACEKEEPERS",
+      "region": "MAINLAND",
+      "factions": [
+        "EL NORTE CARTEL",
+        "KILL KRASHERS",
+        "RAT KINGS",
+        "STEEL VAQUEROS"
+      ],
+      "events": []
+    },
+    {
+      "id": "santo_domingo_aldecaldo_camp",
+      "name": "Aldecaldo Camp",
+      "description": "A large multi-cultural encampment sitting at the base of the petrochem dam. while all nomads are welcome, the camp is primarily dominated by the aldecaldos.",
+      "type": "SubLocation",
+      "parent_location": "santo_domingo",
+      "city_manager": "THERESA VALENTINO (ELECTED BY RESIDENTS)",
+      "security_provider": "ALDECALDO PEACEKEEPERS",
+      "region": "MAINLAND",
+      "factions": [
+        "EL NORTE CARTEL",
+        "KILL KRASHERS",
+        "RAT KINGS",
+        "STEEL VAQUEROS"
+      ],
+      "events": []
+    },
+    {
+      "id": "santo_domingo_city_police_precinct_2",
+      "name": "City Police Precinct #2",
+      "description": "Large but over-worked, the cops here rely heavily on drones to patrol their beats.",
+      "type": "SubLocation",
+      "parent_location": "santo_domingo",
+      "city_manager": "THERESA VALENTINO (ELECTED BY RESIDENTS)",
+      "security_provider": "ALDECALDO PEACEKEEPERS",
+      "region": "MAINLAND",
+      "factions": [
+        "EL NORTE CARTEL",
+        "KILL KRASHERS",
+        "RAT KINGS",
+        "STEEL VAQUEROS"
+      ],
+      "events": []
+    },
+    {
+      "id": "santo_domingo_east_cargo_village",
+      "name": "East Cargo Village",
+      "description": "A dusty cargo container community located near the edge of the city.",
+      "type": "SubLocation",
+      "parent_location": "santo_domingo",
+      "city_manager": "THERESA VALENTINO (ELECTED BY RESIDENTS)",
+      "security_provider": "ALDECALDO PEACEKEEPERS",
+      "region": "MAINLAND",
+      "factions": [
+        "EL NORTE CARTEL",
+        "KILL KRASHERS",
+        "RAT KINGS",
+        "STEEL VAQUEROS"
+      ],
+      "events": []
+    },
+    {
+      "id": "santo_domingo_heywood_suites",
+      "name": "Heywood Suites",
+      "description": "An apartment complex situated beneath one of the most heavily trafficked overpasses in night city. many residents have lev-el-dampening cyberware installed.",
+      "type": "SubLocation",
+      "parent_location": "santo_domingo",
+      "city_manager": "THERESA VALENTINO (ELECTED BY RESIDENTS)",
+      "security_provider": "ALDECALDO PEACEKEEPERS",
+      "region": "MAINLAND",
+      "factions": [
+        "EL NORTE CARTEL",
+        "KILL KRASHERS",
+        "RAT KINGS",
+        "STEEL VAQUEROS"
+      ],
+      "events": []
+    },
+    {
+      "id": "santo_domingo_mar_a_s",
+      "name": "MaraS",
+      "description": "A family-owned beer tent located just inside the city limits.",
+      "type": "SubLocation",
+      "parent_location": "santo_domingo",
+      "city_manager": "THERESA VALENTINO (ELECTED BY RESIDENTS)",
+      "security_provider": "ALDECALDO PEACEKEEPERS",
+      "region": "MAINLAND",
+      "factions": [
+        "EL NORTE CARTEL",
+        "KILL KRASHERS",
+        "RAT KINGS",
+        "STEEL VAQUEROS"
+      ],
+      "events": []
+    },
+    {
+      "id": "santo_domingo_metalstorm",
+      "name": "Metalstorm",
+      "description": "A seemingly indestructible bar located under the pacifica bridge. popular with fbcs.",
+      "type": "SubLocation",
+      "parent_location": "santo_domingo",
+      "city_manager": "THERESA VALENTINO (ELECTED BY RESIDENTS)",
+      "security_provider": "ALDECALDO PEACEKEEPERS",
+      "region": "MAINLAND",
+      "factions": [
+        "EL NORTE CARTEL",
+        "KILL KRASHERS",
+        "RAT KINGS",
+        "STEEL VAQUEROS"
+      ],
+      "events": []
+    },
+    {
+      "id": "santo_domingo_woodchipper_s_garage",
+      "name": "WoodchipperS Garage",
+      "description": "The home base of woodchipper, the most influential nomad fixer in night city. she throws her famous night markets/ block parties in the cul-de-sac to the southwest.",
+      "type": "SubLocation",
+      "parent_location": "santo_domingo",
+      "city_manager": "THERESA VALENTINO (ELECTED BY RESIDENTS)",
+      "security_provider": "ALDECALDO PEACEKEEPERS",
+      "region": "MAINLAND",
+      "factions": [
+        "EL NORTE CARTEL",
+        "KILL KRASHERS",
+        "RAT KINGS",
+        "STEEL VAQUEROS"
+      ],
+      "events": []
+    },
+    {
+      "id": "rancho_coronado",
+      "name": "Rancho Coronado",
+      "description": "TECHNICALLY PART OF NIGHT CITY, NO ONE HAS YET BOTHERED TO PONY UP THE CASH TO BUY RANCHO CORONADO\u2019S SEAT ON THE CITY COUNCIL. AS A RESULT, THE DISTRICT LACKS IN JUST ABOUT EVERY RESOURCE, FROM UTILITIES TO FIRE AND POLICE SERVICES.",
+      "type": "Location",
+      "parent_location": "",
+      "city_manager": "NONE",
+      "security_provider": "NCPD (IN THEORY)",
+      "region": "SOUTHSIDE",
+      "factions": [
+        "6TH STREET",
+        "ALBINO ALLIGATORS",
+        "DIRTY HIPPIES",
+        "STEEL VAQUEROS",
+        "VOODOO BOYS"
+      ],
+      "events": []
+    },
+    {
+      "id": "rancho_coronado_albino_alligator_carwash",
+      "name": "Albino Alligator Carwash",
+      "description": "Home base for the albino alligators. also one of the most reliable places to find clean drinking water in the district.",
+      "type": "SubLocation",
+      "parent_location": "rancho_coronado",
+      "city_manager": "NONE",
+      "security_provider": "NCPD (IN THEORY)",
+      "region": "SOUTHSIDE",
+      "factions": [
+        "6TH STREET",
+        "ALBINO ALLIGATORS",
+        "DIRTY HIPPIES",
+        "STEEL VAQUEROS",
+        "VOODOO BOYS"
+      ],
+      "events": []
+    },
+    {
+      "id": "rancho_coronado_coronado_heights",
+      "name": "Coronado Heights",
+      "description": "An apartment building so close to pacifica that it might as well be part of it.",
+      "type": "SubLocation",
+      "parent_location": "rancho_coronado",
+      "city_manager": "NONE",
+      "security_provider": "NCPD (IN THEORY)",
+      "region": "SOUTHSIDE",
+      "factions": [
+        "6TH STREET",
+        "ALBINO ALLIGATORS",
+        "DIRTY HIPPIES",
+        "STEEL VAQUEROS",
+        "VOODOO BOYS"
+      ],
+      "events": []
+    },
+    {
+      "id": "rancho_coronado_eagle_rock_stadium",
+      "name": "Eagle Rock Stadium",
+      "description": "A former football field transformed into a cargo container community.",
+      "type": "SubLocation",
+      "parent_location": "rancho_coronado",
+      "city_manager": "NONE",
+      "security_provider": "NCPD (IN THEORY)",
+      "region": "SOUTHSIDE",
+      "factions": [
+        "6TH STREET",
+        "ALBINO ALLIGATORS",
+        "DIRTY HIPPIES",
+        "STEEL VAQUEROS",
+        "VOODOO BOYS"
+      ],
+      "events": []
+    },
+    {
+      "id": "rancho_coronado_jack_n_the_green",
+      "name": "Jack N The Green",
+      "description": "A guerilla gardening outfit run by reclaimers.",
+      "type": "SubLocation",
+      "parent_location": "rancho_coronado",
+      "city_manager": "NONE",
+      "security_provider": "NCPD (IN THEORY)",
+      "region": "SOUTHSIDE",
+      "factions": [
+        "6TH STREET",
+        "ALBINO ALLIGATORS",
+        "DIRTY HIPPIES",
+        "STEEL VAQUEROS",
+        "VOODOO BOYS"
+      ],
+      "events": []
+    },
+    {
+      "id": "rancho_coronado_minimallism",
+      "name": "Minimallism",
+      "description": "Once a mall catering to eager beaverville consumers, now an empty husk claimed on one side by reclaimers and on the other by a consor-tium of fixers who take turns running night markets there. also known as the rc night market by residents.",
+      "type": "SubLocation",
+      "parent_location": "rancho_coronado",
+      "city_manager": "NONE",
+      "security_provider": "NCPD (IN THEORY)",
+      "region": "SOUTHSIDE",
+      "factions": [
+        "6TH STREET",
+        "ALBINO ALLIGATORS",
+        "DIRTY HIPPIES",
+        "STEEL VAQUEROS",
+        "VOODOO BOYS"
+      ],
+      "events": []
+    }
+  ]
+}
