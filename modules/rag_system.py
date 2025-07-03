@@ -100,7 +100,7 @@ class RAGSys:
         ]
 
         rsp = self.open_ai.chat.completions.create(
-            model="gpt-4o-mini",
+            model="gpt-4.1-nano",
             messages=messages,
             temperature=temperature,
         )

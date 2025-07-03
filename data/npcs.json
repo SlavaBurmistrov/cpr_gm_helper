@@ -1,0 +1,15 @@
+{
+  "npcs": [
+    {
+      "id": "rogue_amendiares",
+      "name": "Rogue Amendiares",
+      "description": "Fixer and proprietor of the Afterlife.",
+      "role": "Fixer",
+      "affiliation": "",
+      "location": "afterlife",
+      "home_location": "afterlife",
+      "notes": "",
+      "relationships": {}
+    }
+  ]
+}

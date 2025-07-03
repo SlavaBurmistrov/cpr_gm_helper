@@ -10,7 +10,18 @@ from pathlib import Path
 from typing import Dict, List
 
 import config
-from modules.data_models import Location, Faction, NPC, slug
+from modules.data_models import Location, Faction, NPC
+
+
+def _safe_read(path: Path) -> dict:
+    """Return {} if file absent / empty / bad JSON."""
+    if not path.exists() or path.stat().st_size == 0:
+        return {}
+    try:
+        return json.loads(path.read_text(encoding="utf-8", errors="replace"))
+    except json.JSONDecodeError:
+        print("Ignoring malformed JSON in %s", path)
+        return {}
 
 
 class WorldState:
@@ -19,9 +30,13 @@ class WorldState:
     Any CRUD call auto-saves to disk so the state is always current.
     """
 
-    def __init__(self, store_path: Path | None = None) -> None:
-        self._path: Path = store_path or config.WORLD_STATE
-        self._path.parent.mkdir(parents=True, exist_ok=True)
+    def __init__(self) -> None:
+        self._locations: Path = config.WORLD_STATE
+        self._factions: Path = config.FACTIONS
+        self._npcs: Path = config.NPC
+        self._locations.parent.mkdir(parents=True, exist_ok=True)
+        self._factions.parent.mkdir(parents=True, exist_ok=True)
+        self._npcs.parent.mkdir(parents=True, exist_ok=True)
 
         self.locations: Dict[str, Location] = {}
         self.factions: Dict[str, Faction] = {}
@@ -64,22 +79,32 @@ class WorldState:
 
     # ─────────────────── I/O helpers ─────────────────── #
     def _load(self) -> None:
-        if not self._path.exists():
+        if not self._locations.exists():
             self._save()                       # create empty scaffold
             return
 
-        data = json.loads(self._path.read_text(encoding="utf-8", errors="replace"))
-        self.locations = {o["id"]: Location(**o) for o in data.get("locations", [])}
-        self.factions  = {o["id"]: Faction(**o)  for o in data.get("factions", [])}
-        self.npcs      = {o["id"]: NPC(**o)      for o in data.get("npcs", [])}
+        locations = _safe_read(self._locations)
+        factions = _safe_read(self._factions)
+        npcs = _safe_read(self._npcs)
+
+        self.locations = {o["id"]: Location(**o) for o in locations.get("locations", [])}
+        self.factions  = {o["id"]: Faction(**o)  for o in factions.get("factions", [])}
+        self.npcs      = {o["id"]: NPC(**o)      for o in npcs.get("npcs", [])}
 
     def _save(self) -> None:
-        payload = {
-            "locations": [asdict(l) for l in self.locations.values()],
-            "factions":  [asdict(f) for f in self.factions.values()],
-            "npcs":      [asdict(n) for n in self.npcs.values()],
-        }
-        self._path.write_text(
-            json.dumps(payload, indent=2, ensure_ascii=False),
+        """Persist each collection into its dedicated file."""
+        self._locations.write_text(
+            json.dumps({"locations": [asdict(l) for l in self.locations.values()]},
+                       indent=2, ensure_ascii=False),
+            encoding="utf-8",
+        )
+        self._factions.write_text(
+            json.dumps({"factions": [asdict(f) for f in self.factions.values()]},
+                       indent=2, ensure_ascii=False),
+            encoding="utf-8",
+        )
+        self._npcs.write_text(
+            json.dumps({"npcs": [asdict(n) for n in self.npcs.values()]},
+                       indent=2, ensure_ascii=False),
             encoding="utf-8",
         )

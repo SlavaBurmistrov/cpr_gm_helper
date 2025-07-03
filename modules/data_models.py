@@ -34,7 +34,6 @@ class NPC:
     affiliation: str = ""  # corp/faction id
     location: str = ""     # current location id
     home_location: str = ""  # location.id where they are usually found
-    current_location: str = ""       # location.id if they’ve moved
     notes: str = ""
     relationships: Dict[str, str] = field(default_factory=dict)  # npc.id → description
 
